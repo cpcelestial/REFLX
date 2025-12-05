@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.24)  25 OCT 2025 00:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.24)  5 DEC 2025 21:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -270,6 +270,9 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@roff=\dimen180
 )
 ==> First Aid for varwidth.sty applied!
+)
+(C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
 ))
 (C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
 ftex.def
@@ -360,13 +363,13 @@ LaTeX Info: Redefining \BHBI on input line 130.
 
 
 (abstract.tex
-LaTeX Font Info:    Trying to load font information for U+msa on input line 10.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
 
 
 (C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 10.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
 
 
 (C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -418,67 +421,38 @@ Chapter 1.
 ]
 
 [2]
-Overfull \hbox (3.39594pt too wide) in paragraph at lines 35--36
-[]\OT1/cmr/m/n/12 To de-velop a soft-ware ap-pli-ca-tion that man-ages the de-v
-ice op-er-a-tions, records
- []
 
-
-
-[3])
+[3]
 
 [4]
+
+[5])
+
+[6]
 \openout2 = `chapter_2.aux'.
 
  (chapter_2.tex
 Chapter 2.
 
 
-[5
+[7
 
 
 
 
 ]
 
-[6])
+[8]
 
-[7]
+[9]
+
+[10])
+
+[11]
 \openout2 = `chapter_3.aux'.
 
  (chapter_3.tex
 Chapter 3.
-
-
-[8
-
-
-
-
-]
-
-[9]
-Underfull \hbox (badness 1917) in paragraph at lines 92--92
-[]\OT1/cmr/m/n/12 Testing and Ex-per-i-men-ta-
- []
-
-)
-
-[10]
-
-[11]
-\openout2 = `chapter_4.aux'.
-
- (chapter_4.tex
-Chapter 4.
-<figures/Master_node.png, id=60, 254.8722pt x 225.9642pt>
-File: figures/Master_node.png Graphic file (type png)
-<use figures/Master_node.png>
-Package pdftex.def Info: figures/Master_node.png  used on input line 10.
-(pdftex.def)             Requested size: 254.87157pt x 225.96364pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 
 
 [12
@@ -487,27 +461,58 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 ]
-<figures/Station_node.png, id=64, 284.9847pt x 225.9642pt>
-File: figures/Station_node.png Graphic file (type png)
-<use figures/Station_node.png>
-Package pdftex.def Info: figures/Station_node.png  used on input line 19.
-(pdftex.def)             Requested size: 284.984pt x 225.96364pt.
 
+[13]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+[14]
+
+[15]
+Underfull \hbox (badness 1917) in paragraph at lines 103--103
+[]\OT1/cmr/m/n/12 Testing and Ex-per-i-men-ta-
+ []
 
 )
 
-[13 <./figures/Master_node.png>]
+[16]
+\openout2 = `chapter_4.aux'.
 
-[14 <./figures/Station_node.png>]
+ (chapter_4.tex
+Chapter 4.
+<figures/Master_node.png, id=75, 254.8722pt x 225.9642pt>
+File: figures/Master_node.png Graphic file (type png)
+<use figures/Master_node.png>
+Package pdftex.def Info: figures/Master_node.png  used on input line 15.
+(pdftex.def)             Requested size: 254.87157pt x 225.96364pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[17
+
+
+
+
+]
+
+[18 <./figures/Master_node.png>]
+<figures/Station_node.png, id=83, 284.9847pt x 225.9642pt>
+File: figures/Station_node.png Graphic file (type png)
+<use figures/Station_node.png>
+Package pdftex.def Info: figures/Station_node.png  used on input line 28.
+(pdftex.def)             Requested size: 284.984pt x 225.96364pt.
+
+
+[19 <./figures/Station_node.png>])
+
+[20]
 \openout2 = `appendix_A.aux'.
 
  (appendix_A.tex
 Appendix A.
 )
 
-[15
+[21
 
 
 
@@ -519,22 +524,22 @@ Appendix A.
 Appendix B.
 )
 
-[16
+[22
 
 
 
 
 ] (main.bbl
 
-[17
+[23
 
 
 
 ]
 
-[18])
+[24])
 
-[19] (main.aux (title_page.aux) (abstract.aux) (chapter_1.aux) (chapter_2.aux)
+[25] (main.aux (title_page.aux) (abstract.aux) (chapter_1.aux) (chapter_2.aux)
 (chapter_3.aux) (chapter_4.aux) (appendix_A.aux) (appendix_B.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
@@ -542,13 +547,13 @@ L3 programming layer <2025-09-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6379 strings out of 468081
- 102371 string characters out of 5425304
- 519140 words of memory out of 5000000
- 34881 multiletter control sequences out of 15000+600000
+ 6426 strings out of 468081
+ 103388 string characters out of 5425304
+ 519520 words of memory out of 5000000
+ 34924 multiletter control sequences out of 15000+600000
  635980 words of font info for 71 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 79i,10n,84p,1641b,342s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,10n,84p,1641b,368s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Lenovo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
 m1200.pk><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmbx12.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/p
@@ -556,9 +561,9 @@ ublic/amsfonts/cm/cmcsc10.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Lenovo/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Lenovo/AppData/Local
 /Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (25 pages, 160336 bytes).
+Output written on main.pdf (31 pages, 165159 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
+ 136 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
