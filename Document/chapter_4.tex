@@ -5,7 +5,7 @@
 
 \begin{doublespace}
 
-This study will employ components to gather accurate measurements of reaction time. The device will be composed of one master controller and multiple stations. The study will use the ESP-NOW protocol to achieve wireless connection between the main controller and the stations. ESP-NOW is a wireless communication protocol defined by Espressif which enables multiple ESP based microcontrollers to communicate wirelessly. It is a quick and low-power way to handle connection that is based on the data link layer to achieve faster transmission. The main controller will be the master for the station controllers who will send commands and where data will be gathered and sent to a web-based player development tracker.
+This study will employ components to gather accurate measurements of reaction time. The device will be composed of one master controller and multiple stations. The study will use the ESP-NOW protocol to achieve wireless connection between the main controller and the stations. ESP-NOW is a wireless communication protocol defined by Espressif which enables multiple ESP based microcontrollers to communicate wirelessly. It is a quick and low-power way to handle connection that is based on the data link layer to achieve faster transmission. The system will be controlled by a web application initially, as well as storing the data gathered by the system. In later development stages, the system will shift to using a mobile application instead.
 
 \end{doublespace}
 
@@ -35,3 +35,5 @@ In the \figref{fig:Master_node} shows the schematic circuit diagram of the main 
 For the station nodes, the \figref{fig:Station_node} shows its circuit schematic diagram. An ESP32 super mini C3 is used. It is used as it has a smaller footprint and the sensors needed doesn't exceed the amount of its usable GPIO pins. It will receive commands from the main controller and will execute them. A programmable led strip is connected and will change depending on the command as well as will be turned off by the infrared sensor connected to the station controller. The station controller will then record the reaction time of the performer and will then send the data to the main controller. Similar to the main controller, the station controller will be powered by an 3.7v 18650 battery with a TP4056 module with protection for charging. Again, a voltage regulator for a steady supply of 3.3v will be used to power the station controller and a step up power module to 5v to power the led. The led however will be connected to a dual mosfet driver connected to the station controller to act as a switch for the 5v led strip.
 
 \end{doublespace}
+
+\subsection{Software Programming}
