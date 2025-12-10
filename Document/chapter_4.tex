@@ -1,5 +1,6 @@
 %   Filename    : chapter_4.tex 
 \chapter{System Prototype}
+\label{sec:prototype}
 
 \section{System Design and Architecture}
 
@@ -10,14 +11,15 @@ This study will employ components to gather accurate measurements of reaction ti
 \end{doublespace}
 
 \subsection{IOT Components}
-\begin{figure}[h]               
+
+\begin{doublespace}
+
+\begin{figure}[ht]              
 	\centering                    
 	\includegraphics{Master_node.png}      
 	\caption{Schematic Circuit Diagram of the Master Controller }
 	\label{fig:Master_node}
 \end{figure}
-
-\begin{doublespace}
 
 \figref{fig:Master_node} illustrates the schematic circuit diagram of the main (master) controller. At the core of the design is a standard ESP32 microcontroller, which manages two primary tasks: sending commands to the station modules and collecting the reaction-time data they generate. The gathered data will be transmitted using a Python application, displayed through a web application, and then uploaded to a Firebase database for online storage. The main controller also includes a DF Mini MP3 player module that provides audio cues for training modes requiring sound-based stimuli. This module reads audio files stored on an SD card and outputs them through a connected 3W speaker for clear and amplified playback. The entire system is powered by a 3.7V 18650 battery. A TP4056 charging module with built-in protection ensures safe charging and prevents overcharging. A 3.3V voltage regulator provides a stable supply for the ESP32, while a separate step-up converter generates the required 5V output for the DF Mini MP3 module and the speaker.
 

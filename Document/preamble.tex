@@ -8,7 +8,8 @@
 %-- specify related packages
 % \usepackage[utf8x]{inputenc}
 \usepackage{pdfpages}
-\usepackage{apacite}       %-- APA style citation  http://www.ctan.org/tex-archive/biblio/bibtex/contrib/apacite/
+\usepackage[style=apa]{biblatex}        %-- APA style citation  http://www.ctan.org/tex-archive/biblio/bibtex/contrib/apacite/
+\addbibresource{myreferences.bib}
 \usepackage{amsmath}       % American Math Society packages
 \usepackage{amsfonts}
 \usepackage{amssymb}
@@ -41,7 +42,6 @@
 \parskip 1em
 \parindent 0.25in
 
-\bibliographystyle{apacite}            %-- use APA citation scheme
 \hyphenation{ana-lysis know-ledge}     %-- LaTeX may not hyphenate correctly some words you use in your document
                                        %-- use \hyphenation to instruct LaTeX how to do it correctly, example above
 \newcommand{\degree}{^{\circ}}         %-- use \newcommand to create your own "commands"
