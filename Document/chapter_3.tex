@@ -28,7 +28,7 @@ Research activities include inquiry, survey, research, brainstorming, canvassing
 
 \begin{doublespace}
 	
-	This phase will involve resource persons from the UPV Computer Science and PE Departments in developing the final design concept of the system, including the integration of infrared sensors, LED light modules, and speakers. The user interface of the system software will be done in this phase as well. Consultations and brainstorming sessions will be carried out online or face-to-face with the goal being to conceptualize an efficient, portable, and user-friendly hardware–software system tailored to the specific training needs of racket sports.
+	This phase will involve resource persons from the UPV Computer Science and PE Departments in developing the final design concept of the system, including the integration of infrared (IR) sensors, LED light modules, and speakers. The user interface of the system software will be done in this phase as well. Consultations and brainstorming sessions will be carried out online or face-to-face with the goal being to conceptualize an efficient, portable, and user-friendly hardware–software system tailored to the specific training needs of racket sports.
 
 \end{doublespace}
 
@@ -36,7 +36,13 @@ Research activities include inquiry, survey, research, brainstorming, canvassing
 
 \begin{doublespace}
 	
-	This phase will involve resource persons from the UPV Computer Science and PE Departments in developing the final design concept of the system, including the integration of infrared sensors, LED light modules, and speakers. The user interface of the system software will be done in this phase as well. Consultations and brainstorming sessions will be carried out online or face-to-face with the goal being to conceptualize an efficient, portable, and user-friendly hardware–software system tailored to the specific training needs of racket sports.
+	To ensure that the proposed reaction training system provides temporally accurate measurements, the wireless communication latency of the ESP-NOW protocol will be empirically benchmarked under controlled indoor conditions. Since reaction-time assessment is highly sensitive to communication delays, quantifying the transmission latency between the master controller and station nodes is essential for validating the system’s responsiveness and synchronization reliability.
+	
+	The benchmarking setup consists of one ESP32 master controller and three ESP32-based station nodes positioned at distances of approximately 1 m, 5 m, and 10 m within an indoor environment similar to the intended deployment setting. Each station node will be configured as an ESP-NOW peer of the master controller. All devices operate on a fixed Wi-Fi channel to minimize external interference.
+	
+	Latency measurements will be obtained using a timestamp-based approach. Upon initiating a stimulus command, the master controller records a transmission timestamp using the ESP32’s internal clock. Upon reception of the command, the station node immediately transmits an acknowledgment packet back to the master controller. The master then records the reception timestamp of this acknowledgment. One-way latency will be estimated from the transmission-to-reception interval at the station, while round-trip latency will be computed as the time difference between command transmission and acknowledgment reception at the master.
+	
+	Each latency test will be repeated over 3 trials to account for variability. The mean latency, standard deviation, and worst-case delay will be computed for each distance condition. The results of this benchmark will serve as the empirical basis for selecting ESP-NOW as the system’s wireless protocol, demonstrating that its low-latency, connectionless design is suitable for synchronized, multi-station reaction training where precise timing is critical.
 	
 \end{doublespace}
 
@@ -52,16 +58,39 @@ Research activities include inquiry, survey, research, brainstorming, canvassing
 
 \begin{doublespace}
 	
-	This phase is where the researchers will work together with the UPV PE Department and the participating athletes, who will serve as the primary observers and respondents during the trials. Controlled testing sessions will be conducted to measure reaction time and agility improvements using the developed device. Data will be gathered across multiple sessions to ensure reliability and repeatability, and statistical analyses will be performed to evaluate the system’s effectiveness. All testing activities will take place at the UPV Covered Court. This phase provides empirical validation of the system’s impact on athlete performance and helps identify necessary adjustments to optimize the device for training use.
+	The system calculates the athlete’s reaction time using the ESP32’s internal clock in conjunction with a timestamp-based measurement approach. Upon receiving a start signal from the main device, the station device immediately records an initial timestamp and activates the indicator light. When the user subsequently interrupts the line of sight of the IR sensor, a second timestamp is recorded. The user’s reaction time is then computed as the difference between the two timestamps, expressed as:
+	
+	\centerline	{RT = timestamp(end) - timestamp(start)}
+	
+	A total of 15 participants, 5 of whom are from each racket sport (badminton, tennis, and table tennis), will be measured for the purpose of the study. The testing and training will take place at the UPV Covered Court. Athletes will undergo training sessions 4 times a week for a duration of 4 weeks, with each session lasting 2 hours. 
+	
+	The pre- and post-tests involve recording and comparing the reaction time on both hands between the athletes. All athletes underwent 2 tests for each hand. One test was for simple reaction time (SRT), while the second test was for choice reaction time (CRT). In the first test, each athlete was in position and had a light sensor in front of them at 35 cm, which was placed on a table. The athlete’s hand rested on the table, and as soon as the light of the sensor turned on, the athlete had to turn it off with a touch. In the second test, the athlete had four light sensors in front of them at 35 cm, having equal distance from the athlete’s measuring hand. Each time, all four lights were turned on simultaneously, and the athlete had to touch a specific color. In each test, the athlete was required to touch a specific color, but the corresponding sensor was different and not known to the athlete. Each athlete performed 3 times for each hand and test, thus a total of 12 attempts. The time noted by each athlete is derived from the average of the three attempts performed individually for each test (Table \ref{tab:reactiontest}).
 	
 \end{doublespace}
 
-\subsection{Evaluation and Refinement}
+\begin{table}[ht]
+	\centering
+	\caption{Reaction time pre- and post-test} \vspace{0.25em}
+	\begin{tabular}{|p{2in}|c|c|c|c|} \hline
+		& 1st attempt & 2nd attempt & 3rd attempt & Time \\ \hline
+		Right hand (SRT) & x & x & x & (x+x+x)/3 \\ \hline
+		Left hand (SRT) & x & x & x & (x+x+x)/3 \\ \hline
+		Right hand (CRT) & x & x & x & (x+x+x)/3 \\ \hline
+		Left hand (CRT) & x & x & x & (x+x+x)/3 \\ \hline
+	\end{tabular}
+	\label{tab:reactiontest}
+\end{table}
+
+\subsection{Evaluation and Calibration}
 
 \begin{doublespace}
 	
-	In this phase, the researchers will work closely with their adviser and the UPV PE Department to guide the evaluation process. The researchers will analyze the experimental results, identify potential sources of error, and gather feedback from athletes and coaches. This stage also involves redesigning and recalibrating system components based on user experience and performance data. The work will be conducted at the researchers’ personal workstations and in the CAS computer laboratories. This phase aims to enhance the system’s accuracy, usability, and durability, ensuring that the device meets both practical and scientific standards before final deployment.
-
+	Reaction time benchmarks for athletes were derived from empirical studies comparing trained individuals and non-athletes. \textcite{Luu:2021:RTE} reported that elite athletes exhibit exceptionally fast simple reaction times (SRTs) of approximately 160 ms, while trained young adults typically demonstrate SRTs ranging from 160–180 ms. Most adult athletes perform within the 180–200 ms range, which is generally considered normative for trained populations, whereas reaction times exceeding 200 ms are comparatively slower relative to athletic performance standards. These values provide a reference framework for interpreting changes in reaction time before and after training interventions.
+	
+	Reaction time thresholds for the general population were informed by studies involving untrained individuals. \textcite{Woods:2015:FIL} documented average simple visual reaction times of approximately 213–231 ms among healthy adults, while \textcite{Tomczyk:2018:NTS} reported baseline SRTs ranging from 200–260 ms in non-athlete adolescents. Based on these findings, reaction times below 180 ms may be classified as exceptional, 180–220 ms as average, 220–260 ms as typical, and values exceeding 260 ms as indicative of slower performance in the general population. These ranges reflect physiological plausibility and the empirical distribution of reaction times observed in untrained cohorts, thereby enabling pre- and post-training performance changes to be evaluated relative to established population norms.
+	
+	To ensure robust and reliable operation, the device incorporates several key design features focused on hardware integrity, user safety, and error mitigation. Prior to each use, it performs an automated self-diagnostic check to verify that the LEDs and IR sensors are functioning correctly and unobstructed, thereby detecting potential faults early and enhancing overall system reliability. For mitigating accidental triggers, the device automatically ignores reaction times below 50 ms, as such ultra-short latencies are physiologically impossible for human responses, effectively reducing false positives. The internal components are protected by a durable enclosure engineered to withstand common accidents, such as drops or unintentional impacts like kicks, providing structural integrity for everyday handling. Additionally, all components are designed for a precise, snug fit within the enclosure and are securely fixed with appropriate adhesives to prevent displacement from vibrations or minor shocks. In cases of significant physical disturbance during operation, a manual reset may be required to clear any transient glitches caused by mechanical stress and restore the system to a stable state. These measures collectively promote a safe, dependable, and user-friendly device suitable for real-world application.
+	
 \end{doublespace}
 
 \subsection{Documentation and Reporting}

@@ -44,6 +44,44 @@ For the station nodes, \figref{fig:Station_node} presents their circuit schemati
 
 The programming of the IOT components will be implemented in C++ using the Arduino-ESP32 core. The master controller manages ESP-NOW peer-to-peer communication with all stations, broadcasts synchronized commands, aggregates reaction-time data, and forwards it to the application via Wi-Fi. Station controllers execute commands, control WS2812B LEDs, measure reaction times with microsecond precision using hardware timers, and return data via ESP-NOW. ESP-NOW was chosen for its less than 2 ms latency and connectionless design, ensuring the temporal accuracy required for valid reaction-time measurement.
 
-The data gathered will be stored locally in during offline operation, and automatically synchronizes to Google Firebase Firestore upon network availability. A robust queueing system ensures zero data loss even during prolonged offline training. The system will initially utilize a web application built with React, Typescript, and Tailwind CSS. Eventually, a mobile application will be developed using Flutter to serve as the primary control method and data management of the system, offering superior performance, smoother animations, native push notifications, better battery management, and both applications connect to the same online database, ensuring identical functionality and seamless data continuity during the transition period.
+The system will initially utilize a web application built with React, Typescript, and Tailwind CSS. Eventually, a mobile application will be developed using Flutter to serve as the primary control method and data management of the system, offering superior performance, smoother animations, native push notifications, better battery management, and both applications connect to the same online database, ensuring identical functionality and seamless data continuity during the transition period.
+
+The mobile application will interface with the hardware device via Bluetooth, enabling both device control and the collection of training data. The application will provide role-based access through two distinct user dashboards: one for coaches and one for athletes.
+
+The coach dashboard will present aggregated and individual performance metrics obtained from athletes during training sessions, allowing coaches to monitor, evaluate, and manage athlete performance. In contrast, the athlete dashboard will display personalized training statistics, enabling athletes to review and track their own performance data. While both user roles will have the capability to control the device through the mobile application, coaches will have the additional responsibility of assigning or selecting the athlete currently using the device.
+
+The system will support offline operation when gathering data. When an internet connection is unavailable, training data will be stored locally on the mobile device and will be automatically synchronized with Google Firebase Firestore once connectivity is restored.
+
+\end{doublespace}
+
+\section{Training Protocols}
+
+\begin{doublespace}
+
+To assess the effectiveness of the proposed light-based reaction training system, three customizable training drills were developed to target key perceptual-motor skills essential in racket sports, including reaction time, decision-making, movement initiation, and agility. Each drill employs visual and/or auditory stimuli delivered via the system’s LED modules and speakers, while infrared sensors are used to capture response timing and movement execution. Although the drills are designed to be applicable across badminton, tennis, and table tennis, their parameters can be systematically adjusted to accommodate the distinct biomechanical and perceptual demands of each sport.
+
+\end{doublespace}
+
+\subsection{Randomized Single-Target Movement Drill}
+
+\begin{doublespace}
+
+In this drill, the athlete starts from a fixed central position while multiple training stations are placed around the athlete at predefined locations. At the beginning of each trial, a single station activates its LED at random. Upon activation, the athlete immediately moves toward the illuminated station and triggers the infrared sensor using the hand or racket. Once the response is detected, the system deactivates the station and initiates the next trial after a short configurable delay. Station placement and distance are adjusted based on the sport: wider spacing is used for badminton and tennis to require forward, backward, and lateral footwork, while closer spacing is used for table tennis to emphasize short, rapid movements.
+
+\end{doublespace}
+
+\subsection{Multi-Directional Choice Movement Drill}
+
+\begin{doublespace}
+
+This drill requires the athlete to respond to a sequence of visual stimuli that demand movement in different directions. The athlete begins at a central starting point, and one station activates at a time following a randomized sequence. For each activation, the athlete moves to the corresponding station, triggers the infrared sensor, and returns to the starting position before the next stimulus occurs. Movement patterns include lateral shuffles, diagonal steps, and forward–backward transitions. The number of active stations, sequence length, and response time window are configurable to match the movement demands of badminton, tennis, and table tennis.
+
+\end{doublespace}
+
+\subsection{Sequential Multimodal Movement Drill}
+
+\begin{doublespace}
+
+In this drill, movement execution is guided by combined audio and visual cues. An audio signal marks the start of each trial, followed by one or more stations activating in sequence. The athlete responds by moving to each activated station in the order presented and triggering the infrared sensor at each location. After completing the sequence, the system resets and prepares for the next trial. The number of stations in a sequence, activation speed, and movement distance can be adjusted. For badminton and tennis, longer movement paths and rapid direction changes are emphasized, while for table tennis, the drill prioritizes fast alternating movements over shorter distances.
 
 \end{doublespace}

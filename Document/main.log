@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.24)  10 DEC 2025 18:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.24)  3 JAN 2026 16:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -777,49 +777,66 @@ Chapter 3.
 [15]
 
 [16]
-Underfull \hbox (badness 1917) in paragraph at lines 103--103
+Overfull \hbox (32.86281pt too wide) in paragraph at lines 74--82
+ [][] 
+ []
+
+
+
+[17]
+
+[18]
+
+[19]
+Underfull \hbox (badness 1917) in paragraph at lines 140--140
 []\OT1/cmr/m/n/12 Testing and Ex-per-i-men-ta-
  []
 
 )
 
-[17]
+[20]
 \openout2 = `chapter_4.aux'.
 
  (chapter_4.tex
 Chapter 4.
-<figures/Master_node.png, id=78, 254.8722pt x 225.9642pt>
+<figures/Master_node.png, id=88, 254.8722pt x 225.9642pt>
 File: figures/Master_node.png Graphic file (type png)
 <use figures/Master_node.png>
 Package pdftex.def Info: figures/Master_node.png  used on input line 19.
 (pdftex.def)             Requested size: 254.87157pt x 225.96364pt.
 
 
-[18
+[21
 
 
 
 
 ]
 
-[19 <./figures/Master_node.png>]
-<figures/Station_node.png, id=87, 284.9847pt x 225.9642pt>
+[22 <./figures/Master_node.png>]
+<figures/Station_node.png, id=96, 284.9847pt x 225.9642pt>
 File: figures/Station_node.png Graphic file (type png)
 <use figures/Station_node.png>
 Package pdftex.def Info: figures/Station_node.png  used on input line 30.
 (pdftex.def)             Requested size: 284.984pt x 225.96364pt.
 
 
-[20 <./figures/Station_node.png>])
+[23 <./figures/Station_node.png>]
 
-[21]
+[24]
+
+[25]
+
+[26])
+
+[27]
 \openout2 = `appendix_A.aux'.
 
  (appendix_A.tex
 Appendix A.
 )
 
-[22
+[28
 
 
 
@@ -831,43 +848,40 @@ Appendix A.
 Appendix B.
 )
 
-[23
+[29
 
 
 
 
 ]
 
-[24
+[30
 
 
 
 ]
 
-[25]
+[31]
 
-[26]
+[32]
 
-[27] (main.aux (title_page.aux) (abstract.aux) (chapter_1.aux) (chapter_2.aux)
+[33]
+
+[34] (main.aux (title_page.aux) (abstract.aux) (chapter_1.aux) (chapter_2.aux)
 (chapter_3.aux) (chapter_4.aux) (appendix_A.aux) (appendix_B.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 14587 strings out of 468081
- 274477 string characters out of 5426272
- 1222581 words of memory out of 5000000
- 43011 multiletter control sequences out of 15000+600000
+ 14607 strings out of 468081
+ 275199 string characters out of 5426272
+ 1223833 words of memory out of 5000000
+ 43031 multiletter control sequences out of 15000+600000
  635475 words of font info for 68 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  79i,10n,101p,1700b,5185s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -877,9 +891,9 @@ Here is how much of TeX's memory you used:
 amsfonts/cm/cmcsc10.pfb><C:/Users/asus/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/amsfonts/cm/cmr12.pfb><C:/Users/asus/AppData/Local/Programs/MiKTeX/fon
 ts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (33 pages, 162879 bytes).
+Output written on main.pdf (40 pages, 176649 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
+ 162 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

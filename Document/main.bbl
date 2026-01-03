@@ -660,6 +660,65 @@
       \verb 10.1007/s42452-021-04364-5
       \endverb
     \endentry
+    \entry{Luu:2021:RTE}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3bf17c8bece5d04096ce66b2be69ebb7}{%
+           family={Luu},
+           familyi={L\bibinitperiod},
+           given={Anh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0389c252bbf493dff2bb8cf2729d10cb}{%
+           family={Winans},
+           familyi={W\bibinitperiod},
+           given={Avory},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9622beff8012c1f42b37e2299ada1c2}{%
+           family={Suniga},
+           familyi={S\bibinitperiod},
+           given={Rema},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4987f6046e5649f70c08ad67a9eed532}{%
+           family={Motz},
+           familyi={M\bibinitperiod},
+           given={Vicki\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5a234f47961a4305003222bb4fb7d5dc}
+      \strng{fullhash}{b72ed5bf3daf63d9dc1b5d03d6fec843}
+      \strng{fullhashraw}{b72ed5bf3daf63d9dc1b5d03d6fec843}
+      \strng{bibnamehash}{b72ed5bf3daf63d9dc1b5d03d6fec843}
+      \strng{authorbibnamehash}{b72ed5bf3daf63d9dc1b5d03d6fec843}
+      \strng{authornamehash}{5a234f47961a4305003222bb4fb7d5dc}
+      \strng{authorfullhash}{b72ed5bf3daf63d9dc1b5d03d6fec843}
+      \strng{authorfullhashraw}{b72ed5bf3daf63d9dc1b5d03d6fec843}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Ohio Journal of Science}
+      \field{number}{2}
+      \field{title}{Reaction Times for Esport Competitors and Traditional Physical Athletes are Faster than Noncompetitive Peers}
+      \field{volume}{121}
+      \field{year}{2021}
+      \field{pages}{15\bibrangedash 20}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.18061/ojs.v121i2.7677
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.18061/ojs.v121i2.7677
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.18061/ojs.v121i2.7677
+      \endverb
+    \endentry
     \entry{Myers:2021:TRR}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=af76221631b3f7d93d378b2988ae493e}{%
@@ -1115,6 +1174,71 @@
       \verb https://doi.org/10.3390/s22176680
       \endverb
     \endentry
+    \entry{Tomczyk:2018:NTS}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=25810ecc8d810807560a1873653cd5cd}{%
+           family={Tomczyk},
+           familyi={T\bibinitperiod},
+           given={Christopher\bibnamedelima P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82d7cdd9a3ffc8317fcae8af85d1808a}{%
+           family={Mormile},
+           familyi={M\bibinitperiod},
+           given={Megan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9e6db711a5fa8d22466fc1590b8bb85}{%
+           family={Wittenberg},
+           familyi={W\bibinitperiod},
+           given={Megan\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36e777eb3b3ff205eaa38eb0ea26aed9}{%
+           family={Langdon},
+           familyi={L\bibinitperiod},
+           given={Jody\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=135a74398be3bc9df5f15f8bd3a12eb8}{%
+           family={Hunt},
+           familyi={H\bibinitperiod},
+           given={Tamerah\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a8c367ac78daa9c0b7c0e79569b5242d}
+      \strng{fullhash}{52261cdc094cede7c081cdeb5c1ca8d7}
+      \strng{fullhashraw}{52261cdc094cede7c081cdeb5c1ca8d7}
+      \strng{bibnamehash}{52261cdc094cede7c081cdeb5c1ca8d7}
+      \strng{authorbibnamehash}{52261cdc094cede7c081cdeb5c1ca8d7}
+      \strng{authornamehash}{a8c367ac78daa9c0b7c0e79569b5242d}
+      \strng{authorfullhash}{52261cdc094cede7c081cdeb5c1ca8d7}
+      \strng{authorfullhashraw}{52261cdc094cede7c081cdeb5c1ca8d7}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Athletic Training}
+      \field{number}{4}
+      \field{title}{An Examination of Adolescent Athletes and Nonathletes on Baseline Neuropsychological Test Scores}
+      \field{volume}{53}
+      \field{year}{2018}
+      \field{pages}{404\bibrangedash 409}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.4085/1062-6050-84-17
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.4085/1062-6050-84-17
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.4085/1062-6050-84-17
+      \endverb
+    \endentry
     \entry{Turna:2020:EAT}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=4986ed3c40d5b2baa6a6e0eb2b32206e}{%
@@ -1257,6 +1381,70 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1016/j.heliyon.2024.e24296
+      \endverb
+    \endentry
+    \entry{Woods:2015:FIL}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=5c5e2e7b0f4b589ebc46ea3096a653b3}{%
+           family={Woods},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b574471f232790379496c63c4bf30a1}{%
+           family={Wyma},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bb088e5506df6d67d1e09faf85da1c0}{%
+           family={Yund},
+           familyi={Y\bibinitperiod},
+           given={E.\bibnamedelimi William},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13975aee27dc05838ea82309341d8ac9}{%
+           family={Herron},
+           familyi={H\bibinitperiod},
+           given={Timothy\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2343b863d6c25d337269b8a576f5cee}{%
+           family={Reed},
+           familyi={R\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7ea1c5b888de5976113801b7ad0cbef2}
+      \strng{fullhash}{bb96dd7eb8845aed56f3460fabad8ed8}
+      \strng{fullhashraw}{bb96dd7eb8845aed56f3460fabad8ed8}
+      \strng{bibnamehash}{bb96dd7eb8845aed56f3460fabad8ed8}
+      \strng{authorbibnamehash}{bb96dd7eb8845aed56f3460fabad8ed8}
+      \strng{authornamehash}{7ea1c5b888de5976113801b7ad0cbef2}
+      \strng{authorfullhash}{bb96dd7eb8845aed56f3460fabad8ed8}
+      \strng{authorfullhashraw}{bb96dd7eb8845aed56f3460fabad8ed8}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Human Neuroscience}
+      \field{title}{Factors Influencing the Latency of Simple Reaction Time}
+      \field{volume}{9}
+      \field{year}{2015}
+      \field{pages}{131}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fnhum.2015.00131
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3389/fnhum.2015.00131
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3389/fnhum.2015.00131
       \endverb
     \endentry
     \entry{Yildiz:2020:RRA}{article}{}{}
@@ -2049,6 +2237,65 @@
       \verb 10.1007/s42452-021-04364-5
       \endverb
     \endentry
+    \entry{Luu:2021:RTE}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3bf17c8bece5d04096ce66b2be69ebb7}{%
+           family={Luu},
+           familyi={L\bibinitperiod},
+           given={Anh},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0389c252bbf493dff2bb8cf2729d10cb}{%
+           family={Winans},
+           familyi={W\bibinitperiod},
+           given={Avory},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9622beff8012c1f42b37e2299ada1c2}{%
+           family={Suniga},
+           familyi={S\bibinitperiod},
+           given={Rema},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4987f6046e5649f70c08ad67a9eed532}{%
+           family={Motz},
+           familyi={M\bibinitperiod},
+           given={Vicki\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5a234f47961a4305003222bb4fb7d5dc}
+      \strng{fullhash}{b72ed5bf3daf63d9dc1b5d03d6fec843}
+      \strng{fullhashraw}{b72ed5bf3daf63d9dc1b5d03d6fec843}
+      \strng{bibnamehash}{b72ed5bf3daf63d9dc1b5d03d6fec843}
+      \strng{authorbibnamehash}{b72ed5bf3daf63d9dc1b5d03d6fec843}
+      \strng{authornamehash}{5a234f47961a4305003222bb4fb7d5dc}
+      \strng{authorfullhash}{b72ed5bf3daf63d9dc1b5d03d6fec843}
+      \strng{authorfullhashraw}{b72ed5bf3daf63d9dc1b5d03d6fec843}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Ohio Journal of Science}
+      \field{number}{2}
+      \field{title}{Reaction Times for Esport Competitors and Traditional Physical Athletes are Faster than Noncompetitive Peers}
+      \field{volume}{121}
+      \field{year}{2021}
+      \field{pages}{15\bibrangedash 20}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.18061/ojs.v121i2.7677
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.18061/ojs.v121i2.7677
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.18061/ojs.v121i2.7677
+      \endverb
+    \endentry
     \entry{Myers:2021:TRR}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=af76221631b3f7d93d378b2988ae493e}{%
@@ -2504,6 +2751,71 @@
       \verb https://doi.org/10.3390/s22176680
       \endverb
     \endentry
+    \entry{Tomczyk:2018:NTS}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=25810ecc8d810807560a1873653cd5cd}{%
+           family={Tomczyk},
+           familyi={T\bibinitperiod},
+           given={Christopher\bibnamedelima P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82d7cdd9a3ffc8317fcae8af85d1808a}{%
+           family={Mormile},
+           familyi={M\bibinitperiod},
+           given={Megan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9e6db711a5fa8d22466fc1590b8bb85}{%
+           family={Wittenberg},
+           familyi={W\bibinitperiod},
+           given={Megan\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36e777eb3b3ff205eaa38eb0ea26aed9}{%
+           family={Langdon},
+           familyi={L\bibinitperiod},
+           given={Jody\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=135a74398be3bc9df5f15f8bd3a12eb8}{%
+           family={Hunt},
+           familyi={H\bibinitperiod},
+           given={Tamerah\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a8c367ac78daa9c0b7c0e79569b5242d}
+      \strng{fullhash}{52261cdc094cede7c081cdeb5c1ca8d7}
+      \strng{fullhashraw}{52261cdc094cede7c081cdeb5c1ca8d7}
+      \strng{bibnamehash}{52261cdc094cede7c081cdeb5c1ca8d7}
+      \strng{authorbibnamehash}{52261cdc094cede7c081cdeb5c1ca8d7}
+      \strng{authornamehash}{a8c367ac78daa9c0b7c0e79569b5242d}
+      \strng{authorfullhash}{52261cdc094cede7c081cdeb5c1ca8d7}
+      \strng{authorfullhashraw}{52261cdc094cede7c081cdeb5c1ca8d7}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Athletic Training}
+      \field{number}{4}
+      \field{title}{An Examination of Adolescent Athletes and Nonathletes on Baseline Neuropsychological Test Scores}
+      \field{volume}{53}
+      \field{year}{2018}
+      \field{pages}{404\bibrangedash 409}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.4085/1062-6050-84-17
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.4085/1062-6050-84-17
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.4085/1062-6050-84-17
+      \endverb
+    \endentry
     \entry{Turna:2020:EAT}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=4986ed3c40d5b2baa6a6e0eb2b32206e}{%
@@ -2646,6 +2958,70 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1016/j.heliyon.2024.e24296
+      \endverb
+    \endentry
+    \entry{Woods:2015:FIL}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=5c5e2e7b0f4b589ebc46ea3096a653b3}{%
+           family={Woods},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b574471f232790379496c63c4bf30a1}{%
+           family={Wyma},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bb088e5506df6d67d1e09faf85da1c0}{%
+           family={Yund},
+           familyi={Y\bibinitperiod},
+           given={E.\bibnamedelimi William},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13975aee27dc05838ea82309341d8ac9}{%
+           family={Herron},
+           familyi={H\bibinitperiod},
+           given={Timothy\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2343b863d6c25d337269b8a576f5cee}{%
+           family={Reed},
+           familyi={R\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7ea1c5b888de5976113801b7ad0cbef2}
+      \strng{fullhash}{bb96dd7eb8845aed56f3460fabad8ed8}
+      \strng{fullhashraw}{bb96dd7eb8845aed56f3460fabad8ed8}
+      \strng{bibnamehash}{bb96dd7eb8845aed56f3460fabad8ed8}
+      \strng{authorbibnamehash}{bb96dd7eb8845aed56f3460fabad8ed8}
+      \strng{authornamehash}{7ea1c5b888de5976113801b7ad0cbef2}
+      \strng{authorfullhash}{bb96dd7eb8845aed56f3460fabad8ed8}
+      \strng{authorfullhashraw}{bb96dd7eb8845aed56f3460fabad8ed8}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Human Neuroscience}
+      \field{title}{Factors Influencing the Latency of Simple Reaction Time}
+      \field{volume}{9}
+      \field{year}{2015}
+      \field{pages}{131}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fnhum.2015.00131
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3389/fnhum.2015.00131
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3389/fnhum.2015.00131
       \endverb
     \endentry
     \entry{Yildiz:2020:RRA}{article}{}{}

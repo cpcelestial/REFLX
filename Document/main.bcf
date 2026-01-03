@@ -3117,6 +3117,12 @@
     <bcf:citekey order="42" intorder="1">Rebelo:2023:FDA</bcf:citekey>
     <bcf:citekey order="43" intorder="1">Rebelo:2023:FDA</bcf:citekey>
     <bcf:citekey order="44" intorder="1">Seckin:2023:RWT</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">Luu:2021:RTE</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">Luu:2021:RTE</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">Woods:2015:FIL</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">Woods:2015:FIL</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">Tomczyk:2018:NTS</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">Tomczyk:2018:NTS</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
