@@ -1,672 +1,2801 @@
-\begin{thebibliography}{}
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem [\protect \citeauthoryear {%
-Broodryk%
-, Skala%
-\BCBL {}\ \BBA {} Broodryk%
-}{%
-Broodryk%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2025}}%
-}]{%
-Broodryk:2025:LBR}
-\APACinsertmetastar {%
-Broodryk:2025:LBR}%
-\begin{APACrefauthors}%
-Broodryk, A.%
-, Skala, F.%
-\BCBL {}\ \BBA {} Broodryk, R.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2025}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Light-Based Reaction Speed Does Not Predict Field-Based
-  Reactive Agility in Soccer Players} {Light-based reaction speed does not
-  predict field-based reactive agility in soccer players}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Functional Morphology and
-  Kinesiology}{10}{3}{}.
-\newblock
-\begin{APACrefURL} \url{https://www.mdpi.com/2411-5142/10/3/239}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.3390/jfmk10030239} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
 
-\bibitem [\protect \citeauthoryear {%
-Chow%
-, Kong%
-\BCBL {}\ \BBA {} Wong%
-}{%
-Chow%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2022}}%
-}]{%
-Chow:2022:RTP}
-\APACinsertmetastar {%
-Chow:2022:RTP}%
-\begin{APACrefauthors}%
-Chow, C\BHBI C\BPBI G.%
-, Kong, Y\BHBI H.%
-\BCBL {}\ \BBA {} Wong, C\BHBI L.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2022}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Reactive-agility in touch plays an important role in
-  elite playing level: Reliability and validity of a newly developed repeated
-  up-and-down agility test} {Reactive-agility in touch plays an important role
-  in elite playing level: Reliability and validity of a newly developed
-  repeated up-and-down agility test}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Sports Science and
-  Medicine}{21}{}{413--418}.
-\newblock
-\begin{APACrefDOI} \doi{10.52082/jssm.2022.413} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{Becker:2025:POE}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=5effd06cb75b62217a2a2acdb8e7416a}{%
+           family={Becker},
+           familyi={B\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbace54d768726cd21eb4aeb2877e8b0}{%
+           family={Oberli},
+           familyi={O\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24268d24583ee3fd3e3841be2f2fd63c}{%
+           family={Zobel},
+           familyi={Z\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9eea3638fa9a97f4054f44f5e740579c}{%
+           family={Steinmetz},
+           familyi={S\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42474a20ca6363bad13319cc6f25ba51}{%
+           family={Meuser},
+           familyi={M\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c2ce117fafb8ef58a2a9e4840ae18998}
+      \strng{fullhash}{5ab51ddb1db79d124989aed8e335e933}
+      \strng{fullhashraw}{5ab51ddb1db79d124989aed8e335e933}
+      \strng{bibnamehash}{5ab51ddb1db79d124989aed8e335e933}
+      \strng{authorbibnamehash}{5ab51ddb1db79d124989aed8e335e933}
+      \strng{authornamehash}{c2ce117fafb8ef58a2a9e4840ae18998}
+      \strng{authorfullhash}{5ab51ddb1db79d124989aed8e335e933}
+      \strng{authorfullhashraw}{5ab51ddb1db79d124989aed8e335e933}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2025 20th IEEE/IFIP Wireless On-Demand Network Systems and Services Conference (WONS)}
+      \field{isbn}{978-3-903176-71-3}
+      \field{title}{ESP-NOW Performance in Outdoor Environments: Field Experiments and Analysis}
+      \field{year}{2025}
+      \field{pages}{41\bibrangedash 48}
+      \range{pages}{8}
+    \endentry
+    \entry{Broodryk:2025:LBR}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ac331c221f1e1121b9a96854109b0b56}{%
+           family={Broodryk},
+           familyi={B\bibinitperiod},
+           given={Adele},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=274d545c335b6ac9a9e95a2473895cea}{%
+           family={Skala},
+           familyi={S\bibinitperiod},
+           given={Filip},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33efe940f94889cb99ca5746152abc71}{%
+           family={Broodryk},
+           familyi={B\bibinitperiod},
+           given={Retief},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fab65af690839842a54d3c592d490166}
+      \strng{fullhash}{2759ef19f267e560d4ba19e8e3216c80}
+      \strng{fullhashraw}{2759ef19f267e560d4ba19e8e3216c80}
+      \strng{bibnamehash}{2759ef19f267e560d4ba19e8e3216c80}
+      \strng{authorbibnamehash}{2759ef19f267e560d4ba19e8e3216c80}
+      \strng{authornamehash}{fab65af690839842a54d3c592d490166}
+      \strng{authorfullhash}{2759ef19f267e560d4ba19e8e3216c80}
+      \strng{authorfullhashraw}{2759ef19f267e560d4ba19e8e3216c80}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2411-5142}
+      \field{journaltitle}{Journal of Functional Morphology and Kinesiology}
+      \field{number}{3}
+      \field{title}{Light-Based Reaction Speed Does Not Predict Field-Based Reactive Agility in Soccer Players}
+      \field{volume}{10}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.3390/jfmk10030239
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2411-5142/10/3/239
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2411-5142/10/3/239
+      \endverb
+    \endentry
+    \entry{Cekok:2025:EBV}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9d71f1211c8037d5f09fba746cfa7241}{%
+           family={Çekok},
+           familyi={Ç\bibinitperiod},
+           given={Fatma\bibnamedelima Kübra},
+           giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8fda258514afec10fe45d1ed0d6b4f3}{%
+           family={Anaforoğlu},
+           familyi={A\bibinitperiod},
+           given={Bahar},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{07f48cdbbe93e92dc4aa1057c03d6cfa}
+      \strng{fullhash}{07f48cdbbe93e92dc4aa1057c03d6cfa}
+      \strng{fullhashraw}{07f48cdbbe93e92dc4aa1057c03d6cfa}
+      \strng{bibnamehash}{07f48cdbbe93e92dc4aa1057c03d6cfa}
+      \strng{authorbibnamehash}{07f48cdbbe93e92dc4aa1057c03d6cfa}
+      \strng{authornamehash}{07f48cdbbe93e92dc4aa1057c03d6cfa}
+      \strng{authorfullhash}{07f48cdbbe93e92dc4aa1057c03d6cfa}
+      \strng{authorfullhashraw}{07f48cdbbe93e92dc4aa1057c03d6cfa}
+      \field{sortinit}{Ç}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{title}{Effects of balance‐based visual reaction time exercises on cognitive and physical performance in older adults: A randomized controlled trial}
+      \field{volume}{15}
+      \field{year}{2025}
+      \field{pages}{34299}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-025-20418-7
+      \endverb
+    \endentry
+    \entry{Chow:2022:RTP}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2bfbafe3ccb51ac718cd43a98b40c89c}{%
+           family={Chow},
+           familyi={C\bibinitperiod},
+           given={Chi-Ching\bibnamedelima Gary},
+           giveni={C\bibinithyphendelim C\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a54b5b23faf31f3eb39d86b0559bceb7}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={Yu-Hin},
+           giveni={Y\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3f31d4e16d170a0c992258fa97a3403}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Chi-Ling},
+           giveni={C\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a542855bab1411823d8250f8af9a4364}
+      \strng{fullhash}{5c0a040dc186ae134ccc26356e8a5345}
+      \strng{fullhashraw}{5c0a040dc186ae134ccc26356e8a5345}
+      \strng{bibnamehash}{5c0a040dc186ae134ccc26356e8a5345}
+      \strng{authorbibnamehash}{5c0a040dc186ae134ccc26356e8a5345}
+      \strng{authornamehash}{a542855bab1411823d8250f8af9a4364}
+      \strng{authorfullhash}{5c0a040dc186ae134ccc26356e8a5345}
+      \strng{authorfullhashraw}{5c0a040dc186ae134ccc26356e8a5345}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sports Science and Medicine}
+      \field{title}{Reactive-agility in touch plays an important role in elite playing level: Reliability and validity of a newly developed repeated up-and-down agility test}
+      \field{volume}{21}
+      \field{year}{2022}
+      \field{pages}{413\bibrangedash 418}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.52082/jssm.2022.413
+      \endverb
+    \endentry
+    \entry{Eridani:2021:CPS}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8b336373df6ab4ae459ef00ccabab45f}{%
+           family={Eridani},
+           familyi={E\bibinitperiod},
+           given={Dania},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=059cf610422d8b5f8fb286e0e9b05cc0}{%
+           family={Rochim},
+           familyi={R\bibinitperiod},
+           given={Adian\bibnamedelima Fatchur},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8efc77d834e1ef7ec3663883726801da}{%
+           family={Cesara},
+           familyi={C\bibinitperiod},
+           given={Faiz\bibnamedelima Noerdiyan},
+           giveni={F\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b05cfcc152823914ab90078081e23418}
+      \strng{fullhash}{799d549a2c33719713c4020348c3c540}
+      \strng{fullhashraw}{799d549a2c33719713c4020348c3c540}
+      \strng{bibnamehash}{799d549a2c33719713c4020348c3c540}
+      \strng{authorbibnamehash}{799d549a2c33719713c4020348c3c540}
+      \strng{authornamehash}{b05cfcc152823914ab90078081e23418}
+      \strng{authorfullhash}{799d549a2c33719713c4020348c3c540}
+      \strng{authorfullhashraw}{799d549a2c33719713c4020348c3c540}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 International Seminar on Application for Technology of Information and Communication (iSemantic 2021)}
+      \field{title}{Comparative performance study of ESP-NOW, Wi‑Fi, Bluetooth protocols based on range, transmission speed, latency, energy usage and barrier resistance}
+      \field{year}{2021}
+      \field{pages}{322\bibrangedash 328}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/ISEMANTIC52711.2021.9573246
+      \endverb
+    \endentry
+    \entry{Ezhov:2021:MLS}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8b1947ab785993972a9755f95acc6834}{%
+           family={Ezhov},
+           familyi={E\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd68bfccb51beeb2574f7910bae6021e}{%
+           family={Zakharova},
+           familyi={Z\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc0b0cf6e817b1d2e811f4d08eb1cac4}{%
+           family={Kachalov},
+           familyi={K\bibinitperiod},
+           given={Dmitriy},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {INSTICC}%
+      }
+      \list{publisher}{1}{%
+        {SciTePress}%
+      }
+      \strng{namehash}{49989a4f838f8ae2782fcdfac8a9ed02}
+      \strng{fullhash}{f612ce88e887fda64957141fc7fb5f3b}
+      \strng{fullhashraw}{f612ce88e887fda64957141fc7fb5f3b}
+      \strng{bibnamehash}{f612ce88e887fda64957141fc7fb5f3b}
+      \strng{authorbibnamehash}{f612ce88e887fda64957141fc7fb5f3b}
+      \strng{authornamehash}{49989a4f838f8ae2782fcdfac8a9ed02}
+      \strng{authorfullhash}{f612ce88e887fda64957141fc7fb5f3b}
+      \strng{authorfullhashraw}{f612ce88e887fda64957141fc7fb5f3b}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 9th International Conference on Sport Sciences Research and Technology Support - icSPORTS}
+      \field{isbn}{978-989-758-539-5}
+      \field{issn}{2184-3201}
+      \field{title}{Modern Light Sport Training Systems: Critical Analysis of Their Construction and Performance Features}
+      \field{year}{2021}
+      \field{pages}{123\bibrangedash 129}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.5220/0010677900003059
+      \endverb
+    \endentry
+    \entry{Hassan:2025:FTI}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f69cfd483422dea6ff20959f486967ae}{%
+           family={Hassan},
+           familyi={H\bibinitperiod},
+           given={Ahmed\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f69cfd483422dea6ff20959f486967ae}
+      \strng{fullhash}{f69cfd483422dea6ff20959f486967ae}
+      \strng{fullhashraw}{f69cfd483422dea6ff20959f486967ae}
+      \strng{bibnamehash}{f69cfd483422dea6ff20959f486967ae}
+      \strng{authorbibnamehash}{f69cfd483422dea6ff20959f486967ae}
+      \strng{authornamehash}{f69cfd483422dea6ff20959f486967ae}
+      \strng{authorfullhash}{f69cfd483422dea6ff20959f486967ae}
+      \strng{authorfullhashraw}{f69cfd483422dea6ff20959f486967ae}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JMIR Serious Games}
+      \field{number}{1}
+      \field{title}{FITLIGHT Training and Its Influence on Visual-Motor Reactions and Dribbling Speed in Female Basketball Players: Prospective Evaluation Study}
+      \field{volume}{1}
+      \field{year}{2025}
+      \field{pages}{e70519}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.2196/70519
+      \endverb
+    \endentry
+    \entry{Hassan:2023:ESF}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f69cfd483422dea6ff20959f486967ae}{%
+           family={Hassan},
+           familyi={H\bibinitperiod},
+           given={Ahmed\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c5fba4bdaf1470d7ce23c53b4163459}{%
+           family={Alibrahim},
+           familyi={A\bibinitperiod},
+           given={Mohammed\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3cba14f4f6ea33f0a5a932e953671632}{%
+           family={Sayed\bibnamedelima Ahmed},
+           familyi={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Yasser\bibnamedelimb Abdul\bibnamedelima Rashid},
+           giveni={Y\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6efac552423f91434fa3c2ec1b5ec0e4}
+      \strng{fullhash}{cbb8ea4f5cfb97a45c6a3f3e1f511e49}
+      \strng{fullhashraw}{cbb8ea4f5cfb97a45c6a3f3e1f511e49}
+      \strng{bibnamehash}{cbb8ea4f5cfb97a45c6a3f3e1f511e49}
+      \strng{authorbibnamehash}{cbb8ea4f5cfb97a45c6a3f3e1f511e49}
+      \strng{authornamehash}{6efac552423f91434fa3c2ec1b5ec0e4}
+      \strng{authorfullhash}{cbb8ea4f5cfb97a45c6a3f3e1f511e49}
+      \strng{authorfullhashraw}{cbb8ea4f5cfb97a45c6a3f3e1f511e49}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Sports and Active Living}
+      \field{title}{The effect of small‐sided games using the FIT LIGHT training system on some harmonic abilities and some basic skills of basketball players}
+      \field{volume}{5}
+      \field{year}{2023}
+      \field{pages}{1080526}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fspor.2023.1080526
+      \endverb
+    \endentry
+    \entry{Horvath:2022:ARA}{article}{}{}
+      \name{author}{15}{}{%
+        {{un=0,uniquepart=base,hash=8cc483f2177de10cad0de76797dea62b}{%
+           family={Horváth},
+           familyi={H\bibinitperiod},
+           given={Dávid},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7f88c837ebbad3a6f66fec7c9055892}{%
+           family={Négyesi},
+           familyi={N\bibinitperiod},
+           given={János},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48fe33791a8a469473478ac7bf1e6923}{%
+           family={Győri},
+           familyi={G\bibinitperiod},
+           given={Tamás},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4f0243e2faaeb1909ce1dac1f7d0ac0}{%
+           family={Szűcs},
+           familyi={S\bibinitperiod},
+           given={Botond},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=daa817460295508527b657a938f78267}{%
+           family={Tóth},
+           familyi={T\bibinitperiod},
+           given={Péter\bibnamedelima János},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85f391d5fa6b237ea0e8277fdcb41eed}{%
+           family={Matics},
+           familyi={M\bibinitperiod},
+           given={Zsolt},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eaf611b1a4f80c6a9a46cc046b6595ff}{%
+           family={Ökrös},
+           familyi={Ö\bibinitperiod},
+           given={Csaba},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aedfc9e41072ad878c8db91adc3c7154}{%
+           family={Sáfár},
+           familyi={S\bibinitperiod},
+           given={Sándor},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44e408f39becd57ac06dee5b7416b1ba}{%
+           family={Szabó},
+           familyi={S\bibinitperiod},
+           given={Nikolett},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a101ac302bdbccf7b848a7ec2a13dcb}{%
+           family={Takács},
+           familyi={T\bibinitperiod},
+           given={Beáta},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=259cc2322c8c2b3dda2081d9fa4e6879}{%
+           family={Kathy},
+           familyi={K\bibinitperiod},
+           given={Róbert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21f5428c11b867d5f8e154fd0200aabc}{%
+           family={Tóth},
+           familyi={T\bibinitperiod},
+           given={Klára},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e43300f2541fdaba26cf7e48a7d8fc2}{%
+           family={Ferguson},
+           familyi={F\bibinitperiod},
+           given={David\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87f96d9c1c66d6669918446cbeae8021}{%
+           family={Nagatomi},
+           familyi={N\bibinitperiod},
+           given={Ryoichi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16020a84758051256ae55fa949bcc2fc}{%
+           family={Rácz},
+           familyi={R\bibinitperiod},
+           given={Levente},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0500876867fe25cd6dc18e5d6d120e89}
+      \strng{fullhash}{7e65deba2bcd5b70b69b1468343b1be4}
+      \strng{fullhashraw}{7e65deba2bcd5b70b69b1468343b1be4}
+      \strng{bibnamehash}{7e65deba2bcd5b70b69b1468343b1be4}
+      \strng{authorbibnamehash}{7e65deba2bcd5b70b69b1468343b1be4}
+      \strng{authornamehash}{0500876867fe25cd6dc18e5d6d120e89}
+      \strng{authorfullhash}{7e65deba2bcd5b70b69b1468343b1be4}
+      \strng{authorfullhashraw}{7e65deba2bcd5b70b69b1468343b1be4}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sports Medicine - Open}
+      \field{number}{1}
+      \field{title}{Application of a Reactive Agility Training Program Using Light-Based Stimuli to Enhance the Physical and Cognitive Performance of Car Racing Drivers: A Randomized Controlled Trial}
+      \field{volume}{8}
+      \field{year}{2022}
+      \field{pages}{113}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s40798-022-00509-9
+      \endverb
+    \endentry
+    \entry{Jothi:2025:EVT}{article}{}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=de7d7a4ff96baa59ec9026ee0af71030}{%
+           family={Jothi},
+           familyi={J\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=764a10e98b66b7c45079233447f6c5c9}{%
+           family={Kaviya},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eeff9c2959161fdb3100f0ea89a7bd5d}{%
+           family={Sheela\bibnamedelima Mary},
+           familyi={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b236d21bf24760ae618fc1ea6ffa24d}{%
+           family={Madhumitha},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7910ef580674f3f9e7bf04440d3ab79b}{%
+           family={Janani},
+           familyi={J\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bbe335b5f32ce8e9c5c2fbce1ed3dce0}{%
+           family={Hirthika},
+           familyi={H\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=211713cb5e6109574fcaec3e8e30ee1d}{%
+           family={Kothainachi},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad6617ce939a88df479b0b0185b0558c}{%
+           family={Bhavadharani},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1314e706aca442f59a6d3f4b68b2233}{%
+           family={Jayaraman},
+           familyi={J\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49561d70611254032832a1f828c2e735}{%
+           family={Akshitha},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6984cf78b6c4422cab5b5c6fa8353129}{%
+           family={Kavitha\bibnamedelima Sri},
+           familyi={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e72b387e78d9745b704cd5a507a98428}
+      \strng{fullhash}{f11130f8729712dd1dc5310d8cf8cdea}
+      \strng{fullhashraw}{f11130f8729712dd1dc5310d8cf8cdea}
+      \strng{bibnamehash}{f11130f8729712dd1dc5310d8cf8cdea}
+      \strng{authorbibnamehash}{f11130f8729712dd1dc5310d8cf8cdea}
+      \strng{authornamehash}{e72b387e78d9745b704cd5a507a98428}
+      \strng{authorfullhash}{f11130f8729712dd1dc5310d8cf8cdea}
+      \strng{authorfullhashraw}{f11130f8729712dd1dc5310d8cf8cdea}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Physical Education, Sports and Health}
+      \field{number}{4}
+      \field{title}{Effectiveness of visual training interventions on reaction time in athletes: A systematic review}
+      \field{volume}{12}
+      \field{year}{2025}
+      \field{pages}{135\bibrangedash 141}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.22271/kheljournal.2025.v12.i4c.3881
+      \endverb
+    \endentry
+    \entry{Labib:2021:ENS}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=605a53195b779fcd19377565978ff233}{%
+           family={Labib},
+           familyi={L\bibinitperiod},
+           given={M.\bibnamedelimi I.},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf131e4aba9b06fb73a976de3cc32d42}{%
+           family={Kashem},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=faf94cf84fad5ee8b607ac8996e86e44}{%
+           family={Osman},
+           familyi={O\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3f2960157d81bf51fab43f346a258ae}{%
+           family={Parvez},
+           familyi={P\bibinitperiod},
+           given={M.\bibnamedelimi T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eaa2e16e905481a0deb1254e89085a3b}
+      \strng{fullhash}{518687a082e316aebc25018dab978565}
+      \strng{fullhashraw}{518687a082e316aebc25018dab978565}
+      \strng{bibnamehash}{518687a082e316aebc25018dab978565}
+      \strng{authorbibnamehash}{518687a082e316aebc25018dab978565}
+      \strng{authornamehash}{eaa2e16e905481a0deb1254e89085a3b}
+      \strng{authorfullhash}{518687a082e316aebc25018dab978565}
+      \strng{authorfullhashraw}{518687a082e316aebc25018dab978565}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SN Applied Sciences}
+      \field{title}{An efficient networking solution for extending and controlling wireless sensor networks using low‑energy technologies}
+      \field{volume}{3}
+      \field{year}{2021}
+      \field{pages}{463}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s42452-021-04364-5
+      \endverb
+    \endentry
+    \entry{Myers:2021:TRR}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af76221631b3f7d93d378b2988ae493e}{%
+           family={Myers},
+           familyi={M\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Bowling Green State University}%
+      }
+      \strng{namehash}{af76221631b3f7d93d378b2988ae493e}
+      \strng{fullhash}{af76221631b3f7d93d378b2988ae493e}
+      \strng{fullhashraw}{af76221631b3f7d93d378b2988ae493e}
+      \strng{bibnamehash}{af76221631b3f7d93d378b2988ae493e}
+      \strng{authorbibnamehash}{af76221631b3f7d93d378b2988ae493e}
+      \strng{authornamehash}{af76221631b3f7d93d378b2988ae493e}
+      \strng{authorfullhash}{af76221631b3f7d93d378b2988ae493e}
+      \strng{authorfullhashraw}{af76221631b3f7d93d378b2988ae493e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Test-Retest Reliability and Minimal Detectable Change of the FitLight Trainer{\texttrademark}}
+      \field{type}{Master's project}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://scholarworks.bgsu.edu/hmsls_mastersprojects/88
+      \endverb
+      \verb{url}
+      \verb https://scholarworks.bgsu.edu/hmsls_mastersprojects/88
+      \endverb
+    \endentry
+    \entry{Pojskic:2019:RVU}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=68ffc8ead5311e7978966d69e13fe927}{%
+           family={Pojskic},
+           familyi={P\bibinitperiod},
+           given={Haris},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09696de0caf6bb51a6ab4a52156ec6c7}{%
+           family={Pagaduan},
+           familyi={P\bibinitperiod},
+           given={Jaris},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b097a82d6d63eb0fbd5929f2d77b55b7}{%
+           family={Uzicanin},
+           familyi={U\bibinitperiod},
+           given={Enis},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=585fd338c6a76754cacdd232a7feb318}{%
+           family={Separovic},
+           familyi={S\bibinitperiod},
+           given={Vitor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ecf176dfb4c9934a682a9d7f151067a}{%
+           family={Spasic},
+           familyi={S\bibinitperiod},
+           given={Marko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89e41fb8f3882bfeeacdecc3977e8791}{%
+           family={Foretic},
+           familyi={F\bibinitperiod},
+           given={Nenad},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e6ed073569a66a70e1176ac636cf899}{%
+           family={Sekulic},
+           familyi={S\bibinitperiod},
+           given={Damir},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{08fc069f14aa47f634d6a80cd0b91e53}
+      \strng{fullhash}{c99aa6349d9ef1ae109ce02f076bcdfb}
+      \strng{fullhashraw}{c99aa6349d9ef1ae109ce02f076bcdfb}
+      \strng{bibnamehash}{c99aa6349d9ef1ae109ce02f076bcdfb}
+      \strng{authorbibnamehash}{c99aa6349d9ef1ae109ce02f076bcdfb}
+      \strng{authornamehash}{08fc069f14aa47f634d6a80cd0b91e53}
+      \strng{authorfullhash}{c99aa6349d9ef1ae109ce02f076bcdfb}
+      \strng{authorfullhashraw}{c99aa6349d9ef1ae109ce02f076bcdfb}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sports Science and Medicine}
+      \field{number}{4}
+      \field{title}{Reliability, validity and usefulness of a new response time test for agility‐based sports: A simple vs. complex motor task}
+      \field{volume}{18}
+      \field{year}{2019}
+      \field{pages}{623\bibrangedash 635}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.52082/jssm.2019.623
+      \endverb
+    \endentry
+    \entry{Polechonski:2024:RVR}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=174f39c095a64a54a56a9e7ca9d611af}{%
+           family={Polechoński},
+           familyi={P\bibinitperiod},
+           given={Jacek},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2646795e07e548222d735e2501cf976}{%
+           family={Pilch},
+           familyi={P\bibinitperiod},
+           given={Jarosław},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70c32a5ad08aebb17a040bbd4a17fe5d}{%
+           family={Prończuk},
+           familyi={P\bibinitperiod},
+           given={Michał},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c4f4158524ed11ed5a544ed5b3cf157}{%
+           family={Markowski},
+           familyi={M\bibinitperiod},
+           given={Jacek},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=118d85800d490d1c8c6b74afa763fd75}{%
+           family={Maszczyk},
+           familyi={M\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{298537187d4284bbdb821fd6e2884de9}
+      \strng{fullhash}{d3e783abba3157089ab98b99547ef7d0}
+      \strng{fullhashraw}{d3e783abba3157089ab98b99547ef7d0}
+      \strng{bibnamehash}{d3e783abba3157089ab98b99547ef7d0}
+      \strng{authorbibnamehash}{d3e783abba3157089ab98b99547ef7d0}
+      \strng{authornamehash}{298537187d4284bbdb821fd6e2884de9}
+      \strng{authorfullhash}{d3e783abba3157089ab98b99547ef7d0}
+      \strng{authorfullhashraw}{d3e783abba3157089ab98b99547ef7d0}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Baltic Journal of Health and Physical Activity}
+      \field{number}{1}
+      \field{title}{Reliability and validity of simple and complex reaction speed measurements using the BlazePod system in MMA athletes}
+      \field{volume}{17}
+      \field{year}{2024}
+      \field{pages}{2}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.29359/BJHPA.17.1.02
+      \endverb
+    \endentry
+    \entry{Rebelo:2023:FDA}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=a6168dc5896d480ea2e28fe5924e9529}{%
+           family={Rebelo},
+           familyi={R\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fa540a5cf03fcc999180d936f045b94}{%
+           family={Martinho},
+           familyi={M\bibinitperiod},
+           given={Diogo\bibnamedelima V.},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0476bbb36c0d80de9bc07212c875bc63}{%
+           family={Valente-dos-Santos},
+           familyi={V\bibinithyphendelim d\bibinithyphendelim S\bibinitperiod},
+           given={João},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b01cd48da02ecb23ea85348312e72d8}{%
+           family={Coelho-e-Silva},
+           familyi={C\bibinithyphendelim e\bibinithyphendelim S\bibinitperiod},
+           given={Manuel\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61f245ae5fa01ed5be59607c29b0d5e2}{%
+           family={Teixeira},
+           familyi={T\bibinitperiod},
+           given={Diogo\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ff27fa1965695434fb1eea7fe42c7ba}
+      \strng{fullhash}{861e6cb0e56ad1fae18e52e0d0d6e5f9}
+      \strng{fullhashraw}{861e6cb0e56ad1fae18e52e0d0d6e5f9}
+      \strng{bibnamehash}{861e6cb0e56ad1fae18e52e0d0d6e5f9}
+      \strng{authorbibnamehash}{861e6cb0e56ad1fae18e52e0d0d6e5f9}
+      \strng{authornamehash}{3ff27fa1965695434fb1eea7fe42c7ba}
+      \strng{authorfullhash}{861e6cb0e56ad1fae18e52e0d0d6e5f9}
+      \strng{authorfullhashraw}{861e6cb0e56ad1fae18e52e0d0d6e5f9}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Sports Science, Medicine and Rehabilitation}
+      \field{number}{1}
+      \field{title}{From data to action: a scoping review of wearable technologies and biomechanical assessments informing injury prevention strategies in sport}
+      \field{volume}{15}
+      \field{year}{2023}
+      \field{pages}{169}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s13102-023-00783-4
+      \endverb
+    \endentry
+    \entry{Seckin:2023:RWT}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fa0856e20e0ca545accc0239e4cd1221}{%
+           family={Seçkin},
+           familyi={S\bibinitperiod},
+           given={Ahmet\bibnamedelima Çağdaş},
+           giveni={A\bibinitperiod\bibinitdelim Ç\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28b3a68f520b04bf86bcf6a5f763049e}{%
+           family={Ateş},
+           familyi={A\bibinitperiod},
+           given={Bahar},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54e1d5df42dbfeb4b073f62d436a8368}{%
+           family={Seçkin},
+           familyi={S\bibinitperiod},
+           given={Mine},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{92ac5420efc55d487a5c16dfb440a8dc}
+      \strng{fullhash}{8395af58d7882617d0e7f21203b6c4a3}
+      \strng{fullhashraw}{8395af58d7882617d0e7f21203b6c4a3}
+      \strng{bibnamehash}{8395af58d7882617d0e7f21203b6c4a3}
+      \strng{authorbibnamehash}{8395af58d7882617d0e7f21203b6c4a3}
+      \strng{authornamehash}{92ac5420efc55d487a5c16dfb440a8dc}
+      \strng{authorfullhash}{8395af58d7882617d0e7f21203b6c4a3}
+      \strng{authorfullhashraw}{8395af58d7882617d0e7f21203b6c4a3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{18}
+      \field{title}{Review on Wearable Technology in Sports: Concepts, Challenges and Opportunities}
+      \field{volume}{13}
+      \field{year}{2023}
+      \field{pages}{10399}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app131810399
+      \endverb
+    \endentry
+    \entry{Shimi:2025:AML}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=085da87a5a99b28e6f030d50524e8b12}{%
+           family={Shimi},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69141df22597ceb18fac09106a44b8ba}{%
+           family={Kyriacou},
+           familyi={K\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2aead4b8f6f31920135b4f6b0628e15}{%
+           family={Avraamides},
+           familyi={A\bibinitperiod},
+           given={M.\bibnamedelimi N.},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bb2ffc4ac56fbe68dbefa9bc87f647e9}
+      \strng{fullhash}{d83b5f0969619fcd04614be8791c3fb5}
+      \strng{fullhashraw}{d83b5f0969619fcd04614be8791c3fb5}
+      \strng{bibnamehash}{d83b5f0969619fcd04614be8791c3fb5}
+      \strng{authorbibnamehash}{d83b5f0969619fcd04614be8791c3fb5}
+      \strng{authornamehash}{bb2ffc4ac56fbe68dbefa9bc87f647e9}
+      \strng{authorfullhash}{d83b5f0969619fcd04614be8791c3fb5}
+      \strng{authorfullhashraw}{d83b5f0969619fcd04614be8791c3fb5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Sports and Active Living}
+      \field{title}{Attentional mechanisms in light training tasks}
+      \field{volume}{7}
+      \field{year}{2025}
+      \field{pages}{Article 1623558}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.3389/fspor.2025.1623558
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3389/fspor.2025.1623558
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3389/fspor.2025.1623558
+      \endverb
+    \endentry
+    \entry{Steff:2024:IAR}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e5ebee57734e6defd86da8fc1e2cc760}{%
+           family={Steff},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6024307a23c1c4d3262b818b72f0112f}{%
+           family={Badau},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97704cc5800aa071141705e5becdd183}{%
+           family={Badau},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{544e8f22e339d662fed711ce5d40d86e}
+      \strng{fullhash}{7bb548b7ab7481c000e5e3bcdcc49734}
+      \strng{fullhashraw}{7bb548b7ab7481c000e5e3bcdcc49734}
+      \strng{bibnamehash}{7bb548b7ab7481c000e5e3bcdcc49734}
+      \strng{authorbibnamehash}{7bb548b7ab7481c000e5e3bcdcc49734}
+      \strng{authornamehash}{544e8f22e339d662fed711ce5d40d86e}
+      \strng{authorfullhash}{7bb548b7ab7481c000e5e3bcdcc49734}
+      \strng{authorfullhashraw}{7bb548b7ab7481c000e5e3bcdcc49734}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{9}
+      \field{title}{Improving agility and reactive agility in basketball players U14 and U16 by implementing Fitlight technology in the sports training process}
+      \field{volume}{14}
+      \field{year}{2024}
+      \field{pages}{3597}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app14093597
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/app14093597
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/app14093597
+      \endverb
+    \endentry
+    \entry{Theofilou:2022:EVS}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=bd5af54fbad4a6e7cad51c435810181e}{%
+           family={Theofilou},
+           familyi={T\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4499eec79361dcec606a488b6e74658}{%
+           family={Ladakis},
+           familyi={L\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42c9c8f098ad7fe23545bb73ad904290}{%
+           family={Mavroidi},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=086b37a6926e84c7a05799b7dbc9c8a1}{%
+           family={Kilintzis},
+           familyi={K\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=494fd895eda0d1176db29ce745d1a49e}{%
+           family={Mirachtsis},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f21787cffc577fe70a90839cbef114fe}{%
+           family={Chouvarda},
+           familyi={C\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8f2f00b7675926e1ea7bca9307762ab}{%
+           family={Kouidi},
+           familyi={K\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a97f7f77dd73007b32670dd49eb9606a}
+      \strng{fullhash}{de5d2a431b50027fa4847a32525ce6c0}
+      \strng{fullhashraw}{de5d2a431b50027fa4847a32525ce6c0}
+      \strng{bibnamehash}{de5d2a431b50027fa4847a32525ce6c0}
+      \strng{authorbibnamehash}{de5d2a431b50027fa4847a32525ce6c0}
+      \strng{authornamehash}{a97f7f77dd73007b32670dd49eb9606a}
+      \strng{authorfullhash}{de5d2a431b50027fa4847a32525ce6c0}
+      \strng{authorfullhashraw}{de5d2a431b50027fa4847a32525ce6c0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{17}
+      \field{title}{The effects of a visual stimuli training program on reaction time, cognitive function, and fitness in young soccer players}
+      \field{volume}{22}
+      \field{year}{2022}
+      \field{pages}{6680}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s22176680
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/s22176680
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/s22176680
+      \endverb
+    \endentry
+    \entry{Turna:2020:EAT}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4986ed3c40d5b2baa6a6e0eb2b32206e}{%
+           family={Turna},
+           familyi={T\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4986ed3c40d5b2baa6a6e0eb2b32206e}
+      \strng{fullhash}{4986ed3c40d5b2baa6a6e0eb2b32206e}
+      \strng{fullhashraw}{4986ed3c40d5b2baa6a6e0eb2b32206e}
+      \strng{bibnamehash}{4986ed3c40d5b2baa6a6e0eb2b32206e}
+      \strng{authorbibnamehash}{4986ed3c40d5b2baa6a6e0eb2b32206e}
+      \strng{authornamehash}{4986ed3c40d5b2baa6a6e0eb2b32206e}
+      \strng{authorfullhash}{4986ed3c40d5b2baa6a6e0eb2b32206e}
+      \strng{authorfullhashraw}{4986ed3c40d5b2baa6a6e0eb2b32206e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Education and Learning}
+      \field{number}{1}
+      \field{title}{The effect of agility training on reaction time in fencers}
+      \field{volume}{9}
+      \field{year}{2020}
+      \field{pages}{127\bibrangedash 135}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.5539/jel.v9n1p127
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5539/jel.v9n1p127
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5539/jel.v9n1p127
+      \endverb
+    \endentry
+    \entry{Urazayev:2023:IPE}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=064ef94800f63401fa82568c8e9afbdd}{%
+           family={Urazayev},
+           familyi={U\bibinitperiod},
+           given={Dnislam},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b15b41968fbfe2325808bde4107d5b0e}{%
+           family={Eduard},
+           familyi={E\bibinitperiod},
+           given={Aida},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b8d32206b761940b243c46b10503c60}{%
+           family={Ahsan},
+           familyi={A\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdbc69ab41fd01b7c2e1a29db1dca5e7}{%
+           family={Zorbas},
+           familyi={Z\bibinitperiod},
+           given={Dimitrios},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{546795149ba0d4c11ead8ca9d1c224d0}
+      \strng{fullhash}{6a186761cf9d667b182014d3fc930d07}
+      \strng{fullhashraw}{6a186761cf9d667b182014d3fc930d07}
+      \strng{bibnamehash}{6a186761cf9d667b182014d3fc930d07}
+      \strng{authorbibnamehash}{6a186761cf9d667b182014d3fc930d07}
+      \strng{authornamehash}{546795149ba0d4c11ead8ca9d1c224d0}
+      \strng{authorfullhash}{6a186761cf9d667b182014d3fc930d07}
+      \strng{authorfullhashraw}{6a186761cf9d667b182014d3fc930d07}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2023 IEEE Smart Information Systems and Technologies (SIST)}
+      \field{month}{5}
+      \field{title}{Indoor performance evaluation of ESP‑NOW}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1109/SIST58284.2023.10223585
+      \endverb
+    \endentry
+    \entry{Wang:2024:TME}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=61ad10c626e1d641e0b1d7b5f48d3233}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30ff3ef4a89e0c6777f480da5386b053}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7bb074c37d04e2fb30a473aa12102ae1}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a173ffd7d2f7a3e749ffa08afcdc6031}
+      \strng{fullhash}{ace8046a269a00de75fddcd333b9b3bf}
+      \strng{fullhashraw}{ace8046a269a00de75fddcd333b9b3bf}
+      \strng{bibnamehash}{ace8046a269a00de75fddcd333b9b3bf}
+      \strng{authorbibnamehash}{ace8046a269a00de75fddcd333b9b3bf}
+      \strng{authornamehash}{a173ffd7d2f7a3e749ffa08afcdc6031}
+      \strng{authorfullhash}{ace8046a269a00de75fddcd333b9b3bf}
+      \strng{authorfullhashraw}{ace8046a269a00de75fddcd333b9b3bf}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Heliyon}
+      \field{number}{1}
+      \field{title}{Training methods and evaluation of basketball players’ agility quality: A systematic review}
+      \field{volume}{10}
+      \field{year}{2024}
+      \field{pages}{Article e24296}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.heliyon.2024.e24296
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.heliyon.2024.e24296
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.heliyon.2024.e24296
+      \endverb
+    \endentry
+    \entry{Yildiz:2020:RRA}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=e30178d15f26ae6735d60a0651f7c84a}{%
+           family={Yildiz},
+           familyi={Y\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=388f94233b108e0cf04295e62314ba3e}{%
+           family={Ateş},
+           familyi={A\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=da8871ba45708c6607f94f725b296f33}{%
+           family={Gelen},
+           familyi={G\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8279df15793728a698a0755cd765f18f}{%
+           family={Çirak},
+           familyi={Ç\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9cf52393bb7ee0c8962b4a9e9524a5be}{%
+           family={Bakici},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bcf3a02e9d4ae619385661cb75cc89a8}{%
+           family={Sert},
+           familyi={S\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd73ae3e7157d860f19899248fc68968}{%
+           family={Kayihan},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=934bbc9c9154b5c167497976ed7bba1a}{%
+           family={Ozkan},
+           familyi={O\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1a8a2f34afecbf8e7a7ff4108c3c208b}
+      \strng{fullhash}{22c03c1e3355109edd670bb5d442e803}
+      \strng{fullhashraw}{22c03c1e3355109edd670bb5d442e803}
+      \strng{bibnamehash}{22c03c1e3355109edd670bb5d442e803}
+      \strng{authorbibnamehash}{22c03c1e3355109edd670bb5d442e803}
+      \strng{authornamehash}{1a8a2f34afecbf8e7a7ff4108c3c208b}
+      \strng{authorfullhash}{22c03c1e3355109edd670bb5d442e803}
+      \strng{authorfullhashraw}{22c03c1e3355109edd670bb5d442e803}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Medica Mediterranea}
+      \field{title}{The relationship between reaction time, agility and speed performance in high-level soccer players}
+      \field{volume}{36}
+      \field{year}{2020}
+      \field{pages}{2923\bibrangedash 2927}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.19193/0393-6384_2020_5_448
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.19193/0393-6384_2020_5_448
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.19193/0393-6384_2020_5_448
+      \endverb
+    \endentry
+    \entry{Zhao:2024:RPS}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=326e7e67b0b4605a06b13d7b7d37ab75}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=865de0ad624b442a018417bf6b85083e}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=013142302047747a6b9bc4d928a2ba25}{%
+           family={Bo},
+           familyi={B\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab2b2eab89ff430c732b6463e153d62a}{%
+           family={Qi},
+           familyi={Q\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=280dc4c18f682e47f79d502f0e89f614}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b61c2a35e46354fd1be77b3a4cdbecd5}
+      \strng{fullhash}{8bb5d3b6182c3fde15a0e5892526992d}
+      \strng{fullhashraw}{8bb5d3b6182c3fde15a0e5892526992d}
+      \strng{bibnamehash}{8bb5d3b6182c3fde15a0e5892526992d}
+      \strng{authorbibnamehash}{8bb5d3b6182c3fde15a0e5892526992d}
+      \strng{authornamehash}{b61c2a35e46354fd1be77b3a4cdbecd5}
+      \strng{authorfullhash}{8bb5d3b6182c3fde15a0e5892526992d}
+      \strng{authorfullhashraw}{8bb5d3b6182c3fde15a0e5892526992d}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{22}
+      \field{title}{Research progress on applying intelligent sensors in sports science}
+      \field{volume}{24}
+      \field{year}{2024}
+      \field{pages}{7338}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s24227338
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/s24227338
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/s24227338
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{Becker:2025:POE}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=5effd06cb75b62217a2a2acdb8e7416a}{%
+           family={Becker},
+           familyi={B\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbace54d768726cd21eb4aeb2877e8b0}{%
+           family={Oberli},
+           familyi={O\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24268d24583ee3fd3e3841be2f2fd63c}{%
+           family={Zobel},
+           familyi={Z\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9eea3638fa9a97f4054f44f5e740579c}{%
+           family={Steinmetz},
+           familyi={S\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42474a20ca6363bad13319cc6f25ba51}{%
+           family={Meuser},
+           familyi={M\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c2ce117fafb8ef58a2a9e4840ae18998}
+      \strng{fullhash}{5ab51ddb1db79d124989aed8e335e933}
+      \strng{fullhashraw}{5ab51ddb1db79d124989aed8e335e933}
+      \strng{bibnamehash}{5ab51ddb1db79d124989aed8e335e933}
+      \strng{authorbibnamehash}{5ab51ddb1db79d124989aed8e335e933}
+      \strng{authornamehash}{c2ce117fafb8ef58a2a9e4840ae18998}
+      \strng{authorfullhash}{5ab51ddb1db79d124989aed8e335e933}
+      \strng{authorfullhashraw}{5ab51ddb1db79d124989aed8e335e933}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2025 20th IEEE/IFIP Wireless On-Demand Network Systems and Services Conference (WONS)}
+      \field{isbn}{978-3-903176-71-3}
+      \field{title}{ESP-NOW Performance in Outdoor Environments: Field Experiments and Analysis}
+      \field{year}{2025}
+      \field{pages}{41\bibrangedash 48}
+      \range{pages}{8}
+    \endentry
+    \entry{Broodryk:2025:LBR}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ac331c221f1e1121b9a96854109b0b56}{%
+           family={Broodryk},
+           familyi={B\bibinitperiod},
+           given={Adele},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=274d545c335b6ac9a9e95a2473895cea}{%
+           family={Skala},
+           familyi={S\bibinitperiod},
+           given={Filip},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33efe940f94889cb99ca5746152abc71}{%
+           family={Broodryk},
+           familyi={B\bibinitperiod},
+           given={Retief},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fab65af690839842a54d3c592d490166}
+      \strng{fullhash}{2759ef19f267e560d4ba19e8e3216c80}
+      \strng{fullhashraw}{2759ef19f267e560d4ba19e8e3216c80}
+      \strng{bibnamehash}{2759ef19f267e560d4ba19e8e3216c80}
+      \strng{authorbibnamehash}{2759ef19f267e560d4ba19e8e3216c80}
+      \strng{authornamehash}{fab65af690839842a54d3c592d490166}
+      \strng{authorfullhash}{2759ef19f267e560d4ba19e8e3216c80}
+      \strng{authorfullhashraw}{2759ef19f267e560d4ba19e8e3216c80}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2411-5142}
+      \field{journaltitle}{Journal of Functional Morphology and Kinesiology}
+      \field{number}{3}
+      \field{title}{Light-Based Reaction Speed Does Not Predict Field-Based Reactive Agility in Soccer Players}
+      \field{volume}{10}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.3390/jfmk10030239
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2411-5142/10/3/239
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2411-5142/10/3/239
+      \endverb
+    \endentry
+    \entry{Cekok:2025:EBV}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9d71f1211c8037d5f09fba746cfa7241}{%
+           family={Çekok},
+           familyi={Ç\bibinitperiod},
+           given={Fatma\bibnamedelima Kübra},
+           giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8fda258514afec10fe45d1ed0d6b4f3}{%
+           family={Anaforoğlu},
+           familyi={A\bibinitperiod},
+           given={Bahar},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{07f48cdbbe93e92dc4aa1057c03d6cfa}
+      \strng{fullhash}{07f48cdbbe93e92dc4aa1057c03d6cfa}
+      \strng{fullhashraw}{07f48cdbbe93e92dc4aa1057c03d6cfa}
+      \strng{bibnamehash}{07f48cdbbe93e92dc4aa1057c03d6cfa}
+      \strng{authorbibnamehash}{07f48cdbbe93e92dc4aa1057c03d6cfa}
+      \strng{authornamehash}{07f48cdbbe93e92dc4aa1057c03d6cfa}
+      \strng{authorfullhash}{07f48cdbbe93e92dc4aa1057c03d6cfa}
+      \strng{authorfullhashraw}{07f48cdbbe93e92dc4aa1057c03d6cfa}
+      \field{sortinit}{Ç}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{title}{Effects of balance‐based visual reaction time exercises on cognitive and physical performance in older adults: A randomized controlled trial}
+      \field{volume}{15}
+      \field{year}{2025}
+      \field{pages}{34299}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-025-20418-7
+      \endverb
+    \endentry
+    \entry{Chow:2022:RTP}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2bfbafe3ccb51ac718cd43a98b40c89c}{%
+           family={Chow},
+           familyi={C\bibinitperiod},
+           given={Chi-Ching\bibnamedelima Gary},
+           giveni={C\bibinithyphendelim C\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a54b5b23faf31f3eb39d86b0559bceb7}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={Yu-Hin},
+           giveni={Y\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3f31d4e16d170a0c992258fa97a3403}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Chi-Ling},
+           giveni={C\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a542855bab1411823d8250f8af9a4364}
+      \strng{fullhash}{5c0a040dc186ae134ccc26356e8a5345}
+      \strng{fullhashraw}{5c0a040dc186ae134ccc26356e8a5345}
+      \strng{bibnamehash}{5c0a040dc186ae134ccc26356e8a5345}
+      \strng{authorbibnamehash}{5c0a040dc186ae134ccc26356e8a5345}
+      \strng{authornamehash}{a542855bab1411823d8250f8af9a4364}
+      \strng{authorfullhash}{5c0a040dc186ae134ccc26356e8a5345}
+      \strng{authorfullhashraw}{5c0a040dc186ae134ccc26356e8a5345}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sports Science and Medicine}
+      \field{title}{Reactive-agility in touch plays an important role in elite playing level: Reliability and validity of a newly developed repeated up-and-down agility test}
+      \field{volume}{21}
+      \field{year}{2022}
+      \field{pages}{413\bibrangedash 418}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.52082/jssm.2022.413
+      \endverb
+    \endentry
+    \entry{Eridani:2021:CPS}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8b336373df6ab4ae459ef00ccabab45f}{%
+           family={Eridani},
+           familyi={E\bibinitperiod},
+           given={Dania},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=059cf610422d8b5f8fb286e0e9b05cc0}{%
+           family={Rochim},
+           familyi={R\bibinitperiod},
+           given={Adian\bibnamedelima Fatchur},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8efc77d834e1ef7ec3663883726801da}{%
+           family={Cesara},
+           familyi={C\bibinitperiod},
+           given={Faiz\bibnamedelima Noerdiyan},
+           giveni={F\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b05cfcc152823914ab90078081e23418}
+      \strng{fullhash}{799d549a2c33719713c4020348c3c540}
+      \strng{fullhashraw}{799d549a2c33719713c4020348c3c540}
+      \strng{bibnamehash}{799d549a2c33719713c4020348c3c540}
+      \strng{authorbibnamehash}{799d549a2c33719713c4020348c3c540}
+      \strng{authornamehash}{b05cfcc152823914ab90078081e23418}
+      \strng{authorfullhash}{799d549a2c33719713c4020348c3c540}
+      \strng{authorfullhashraw}{799d549a2c33719713c4020348c3c540}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 International Seminar on Application for Technology of Information and Communication (iSemantic 2021)}
+      \field{title}{Comparative performance study of ESP-NOW, Wi‑Fi, Bluetooth protocols based on range, transmission speed, latency, energy usage and barrier resistance}
+      \field{year}{2021}
+      \field{pages}{322\bibrangedash 328}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/ISEMANTIC52711.2021.9573246
+      \endverb
+    \endentry
+    \entry{Ezhov:2021:MLS}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8b1947ab785993972a9755f95acc6834}{%
+           family={Ezhov},
+           familyi={E\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd68bfccb51beeb2574f7910bae6021e}{%
+           family={Zakharova},
+           familyi={Z\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc0b0cf6e817b1d2e811f4d08eb1cac4}{%
+           family={Kachalov},
+           familyi={K\bibinitperiod},
+           given={Dmitriy},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {INSTICC}%
+      }
+      \list{publisher}{1}{%
+        {SciTePress}%
+      }
+      \strng{namehash}{49989a4f838f8ae2782fcdfac8a9ed02}
+      \strng{fullhash}{f612ce88e887fda64957141fc7fb5f3b}
+      \strng{fullhashraw}{f612ce88e887fda64957141fc7fb5f3b}
+      \strng{bibnamehash}{f612ce88e887fda64957141fc7fb5f3b}
+      \strng{authorbibnamehash}{f612ce88e887fda64957141fc7fb5f3b}
+      \strng{authornamehash}{49989a4f838f8ae2782fcdfac8a9ed02}
+      \strng{authorfullhash}{f612ce88e887fda64957141fc7fb5f3b}
+      \strng{authorfullhashraw}{f612ce88e887fda64957141fc7fb5f3b}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 9th International Conference on Sport Sciences Research and Technology Support - icSPORTS}
+      \field{isbn}{978-989-758-539-5}
+      \field{issn}{2184-3201}
+      \field{title}{Modern Light Sport Training Systems: Critical Analysis of Their Construction and Performance Features}
+      \field{year}{2021}
+      \field{pages}{123\bibrangedash 129}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.5220/0010677900003059
+      \endverb
+    \endentry
+    \entry{Hassan:2025:FTI}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f69cfd483422dea6ff20959f486967ae}{%
+           family={Hassan},
+           familyi={H\bibinitperiod},
+           given={Ahmed\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f69cfd483422dea6ff20959f486967ae}
+      \strng{fullhash}{f69cfd483422dea6ff20959f486967ae}
+      \strng{fullhashraw}{f69cfd483422dea6ff20959f486967ae}
+      \strng{bibnamehash}{f69cfd483422dea6ff20959f486967ae}
+      \strng{authorbibnamehash}{f69cfd483422dea6ff20959f486967ae}
+      \strng{authornamehash}{f69cfd483422dea6ff20959f486967ae}
+      \strng{authorfullhash}{f69cfd483422dea6ff20959f486967ae}
+      \strng{authorfullhashraw}{f69cfd483422dea6ff20959f486967ae}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JMIR Serious Games}
+      \field{number}{1}
+      \field{title}{FITLIGHT Training and Its Influence on Visual-Motor Reactions and Dribbling Speed in Female Basketball Players: Prospective Evaluation Study}
+      \field{volume}{1}
+      \field{year}{2025}
+      \field{pages}{e70519}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.2196/70519
+      \endverb
+    \endentry
+    \entry{Hassan:2023:ESF}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f69cfd483422dea6ff20959f486967ae}{%
+           family={Hassan},
+           familyi={H\bibinitperiod},
+           given={Ahmed\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c5fba4bdaf1470d7ce23c53b4163459}{%
+           family={Alibrahim},
+           familyi={A\bibinitperiod},
+           given={Mohammed\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3cba14f4f6ea33f0a5a932e953671632}{%
+           family={Sayed\bibnamedelima Ahmed},
+           familyi={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Yasser\bibnamedelimb Abdul\bibnamedelima Rashid},
+           giveni={Y\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6efac552423f91434fa3c2ec1b5ec0e4}
+      \strng{fullhash}{cbb8ea4f5cfb97a45c6a3f3e1f511e49}
+      \strng{fullhashraw}{cbb8ea4f5cfb97a45c6a3f3e1f511e49}
+      \strng{bibnamehash}{cbb8ea4f5cfb97a45c6a3f3e1f511e49}
+      \strng{authorbibnamehash}{cbb8ea4f5cfb97a45c6a3f3e1f511e49}
+      \strng{authornamehash}{6efac552423f91434fa3c2ec1b5ec0e4}
+      \strng{authorfullhash}{cbb8ea4f5cfb97a45c6a3f3e1f511e49}
+      \strng{authorfullhashraw}{cbb8ea4f5cfb97a45c6a3f3e1f511e49}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Sports and Active Living}
+      \field{title}{The effect of small‐sided games using the FIT LIGHT training system on some harmonic abilities and some basic skills of basketball players}
+      \field{volume}{5}
+      \field{year}{2023}
+      \field{pages}{1080526}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fspor.2023.1080526
+      \endverb
+    \endentry
+    \entry{Horvath:2022:ARA}{article}{}{}
+      \name{author}{15}{}{%
+        {{un=0,uniquepart=base,hash=8cc483f2177de10cad0de76797dea62b}{%
+           family={Horváth},
+           familyi={H\bibinitperiod},
+           given={Dávid},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7f88c837ebbad3a6f66fec7c9055892}{%
+           family={Négyesi},
+           familyi={N\bibinitperiod},
+           given={János},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48fe33791a8a469473478ac7bf1e6923}{%
+           family={Győri},
+           familyi={G\bibinitperiod},
+           given={Tamás},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4f0243e2faaeb1909ce1dac1f7d0ac0}{%
+           family={Szűcs},
+           familyi={S\bibinitperiod},
+           given={Botond},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=daa817460295508527b657a938f78267}{%
+           family={Tóth},
+           familyi={T\bibinitperiod},
+           given={Péter\bibnamedelima János},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85f391d5fa6b237ea0e8277fdcb41eed}{%
+           family={Matics},
+           familyi={M\bibinitperiod},
+           given={Zsolt},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eaf611b1a4f80c6a9a46cc046b6595ff}{%
+           family={Ökrös},
+           familyi={Ö\bibinitperiod},
+           given={Csaba},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aedfc9e41072ad878c8db91adc3c7154}{%
+           family={Sáfár},
+           familyi={S\bibinitperiod},
+           given={Sándor},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44e408f39becd57ac06dee5b7416b1ba}{%
+           family={Szabó},
+           familyi={S\bibinitperiod},
+           given={Nikolett},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a101ac302bdbccf7b848a7ec2a13dcb}{%
+           family={Takács},
+           familyi={T\bibinitperiod},
+           given={Beáta},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=259cc2322c8c2b3dda2081d9fa4e6879}{%
+           family={Kathy},
+           familyi={K\bibinitperiod},
+           given={Róbert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21f5428c11b867d5f8e154fd0200aabc}{%
+           family={Tóth},
+           familyi={T\bibinitperiod},
+           given={Klára},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e43300f2541fdaba26cf7e48a7d8fc2}{%
+           family={Ferguson},
+           familyi={F\bibinitperiod},
+           given={David\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87f96d9c1c66d6669918446cbeae8021}{%
+           family={Nagatomi},
+           familyi={N\bibinitperiod},
+           given={Ryoichi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16020a84758051256ae55fa949bcc2fc}{%
+           family={Rácz},
+           familyi={R\bibinitperiod},
+           given={Levente},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0500876867fe25cd6dc18e5d6d120e89}
+      \strng{fullhash}{7e65deba2bcd5b70b69b1468343b1be4}
+      \strng{fullhashraw}{7e65deba2bcd5b70b69b1468343b1be4}
+      \strng{bibnamehash}{7e65deba2bcd5b70b69b1468343b1be4}
+      \strng{authorbibnamehash}{7e65deba2bcd5b70b69b1468343b1be4}
+      \strng{authornamehash}{0500876867fe25cd6dc18e5d6d120e89}
+      \strng{authorfullhash}{7e65deba2bcd5b70b69b1468343b1be4}
+      \strng{authorfullhashraw}{7e65deba2bcd5b70b69b1468343b1be4}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sports Medicine - Open}
+      \field{number}{1}
+      \field{title}{Application of a Reactive Agility Training Program Using Light-Based Stimuli to Enhance the Physical and Cognitive Performance of Car Racing Drivers: A Randomized Controlled Trial}
+      \field{volume}{8}
+      \field{year}{2022}
+      \field{pages}{113}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s40798-022-00509-9
+      \endverb
+    \endentry
+    \entry{Jothi:2025:EVT}{article}{}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=de7d7a4ff96baa59ec9026ee0af71030}{%
+           family={Jothi},
+           familyi={J\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=764a10e98b66b7c45079233447f6c5c9}{%
+           family={Kaviya},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eeff9c2959161fdb3100f0ea89a7bd5d}{%
+           family={Sheela\bibnamedelima Mary},
+           familyi={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b236d21bf24760ae618fc1ea6ffa24d}{%
+           family={Madhumitha},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7910ef580674f3f9e7bf04440d3ab79b}{%
+           family={Janani},
+           familyi={J\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bbe335b5f32ce8e9c5c2fbce1ed3dce0}{%
+           family={Hirthika},
+           familyi={H\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=211713cb5e6109574fcaec3e8e30ee1d}{%
+           family={Kothainachi},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad6617ce939a88df479b0b0185b0558c}{%
+           family={Bhavadharani},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1314e706aca442f59a6d3f4b68b2233}{%
+           family={Jayaraman},
+           familyi={J\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49561d70611254032832a1f828c2e735}{%
+           family={Akshitha},
+           familyi={A\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6984cf78b6c4422cab5b5c6fa8353129}{%
+           family={Kavitha\bibnamedelima Sri},
+           familyi={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e72b387e78d9745b704cd5a507a98428}
+      \strng{fullhash}{f11130f8729712dd1dc5310d8cf8cdea}
+      \strng{fullhashraw}{f11130f8729712dd1dc5310d8cf8cdea}
+      \strng{bibnamehash}{f11130f8729712dd1dc5310d8cf8cdea}
+      \strng{authorbibnamehash}{f11130f8729712dd1dc5310d8cf8cdea}
+      \strng{authornamehash}{e72b387e78d9745b704cd5a507a98428}
+      \strng{authorfullhash}{f11130f8729712dd1dc5310d8cf8cdea}
+      \strng{authorfullhashraw}{f11130f8729712dd1dc5310d8cf8cdea}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Physical Education, Sports and Health}
+      \field{number}{4}
+      \field{title}{Effectiveness of visual training interventions on reaction time in athletes: A systematic review}
+      \field{volume}{12}
+      \field{year}{2025}
+      \field{pages}{135\bibrangedash 141}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.22271/kheljournal.2025.v12.i4c.3881
+      \endverb
+    \endentry
+    \entry{Labib:2021:ENS}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=605a53195b779fcd19377565978ff233}{%
+           family={Labib},
+           familyi={L\bibinitperiod},
+           given={M.\bibnamedelimi I.},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf131e4aba9b06fb73a976de3cc32d42}{%
+           family={Kashem},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=faf94cf84fad5ee8b607ac8996e86e44}{%
+           family={Osman},
+           familyi={O\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3f2960157d81bf51fab43f346a258ae}{%
+           family={Parvez},
+           familyi={P\bibinitperiod},
+           given={M.\bibnamedelimi T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eaa2e16e905481a0deb1254e89085a3b}
+      \strng{fullhash}{518687a082e316aebc25018dab978565}
+      \strng{fullhashraw}{518687a082e316aebc25018dab978565}
+      \strng{bibnamehash}{518687a082e316aebc25018dab978565}
+      \strng{authorbibnamehash}{518687a082e316aebc25018dab978565}
+      \strng{authornamehash}{eaa2e16e905481a0deb1254e89085a3b}
+      \strng{authorfullhash}{518687a082e316aebc25018dab978565}
+      \strng{authorfullhashraw}{518687a082e316aebc25018dab978565}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SN Applied Sciences}
+      \field{title}{An efficient networking solution for extending and controlling wireless sensor networks using low‑energy technologies}
+      \field{volume}{3}
+      \field{year}{2021}
+      \field{pages}{463}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s42452-021-04364-5
+      \endverb
+    \endentry
+    \entry{Myers:2021:TRR}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af76221631b3f7d93d378b2988ae493e}{%
+           family={Myers},
+           familyi={M\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Bowling Green State University}%
+      }
+      \strng{namehash}{af76221631b3f7d93d378b2988ae493e}
+      \strng{fullhash}{af76221631b3f7d93d378b2988ae493e}
+      \strng{fullhashraw}{af76221631b3f7d93d378b2988ae493e}
+      \strng{bibnamehash}{af76221631b3f7d93d378b2988ae493e}
+      \strng{authorbibnamehash}{af76221631b3f7d93d378b2988ae493e}
+      \strng{authornamehash}{af76221631b3f7d93d378b2988ae493e}
+      \strng{authorfullhash}{af76221631b3f7d93d378b2988ae493e}
+      \strng{authorfullhashraw}{af76221631b3f7d93d378b2988ae493e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Test-Retest Reliability and Minimal Detectable Change of the FitLight Trainer{\texttrademark}}
+      \field{type}{Master's project}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://scholarworks.bgsu.edu/hmsls_mastersprojects/88
+      \endverb
+      \verb{url}
+      \verb https://scholarworks.bgsu.edu/hmsls_mastersprojects/88
+      \endverb
+    \endentry
+    \entry{Pojskic:2019:RVU}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=68ffc8ead5311e7978966d69e13fe927}{%
+           family={Pojskic},
+           familyi={P\bibinitperiod},
+           given={Haris},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09696de0caf6bb51a6ab4a52156ec6c7}{%
+           family={Pagaduan},
+           familyi={P\bibinitperiod},
+           given={Jaris},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b097a82d6d63eb0fbd5929f2d77b55b7}{%
+           family={Uzicanin},
+           familyi={U\bibinitperiod},
+           given={Enis},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=585fd338c6a76754cacdd232a7feb318}{%
+           family={Separovic},
+           familyi={S\bibinitperiod},
+           given={Vitor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ecf176dfb4c9934a682a9d7f151067a}{%
+           family={Spasic},
+           familyi={S\bibinitperiod},
+           given={Marko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89e41fb8f3882bfeeacdecc3977e8791}{%
+           family={Foretic},
+           familyi={F\bibinitperiod},
+           given={Nenad},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e6ed073569a66a70e1176ac636cf899}{%
+           family={Sekulic},
+           familyi={S\bibinitperiod},
+           given={Damir},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{08fc069f14aa47f634d6a80cd0b91e53}
+      \strng{fullhash}{c99aa6349d9ef1ae109ce02f076bcdfb}
+      \strng{fullhashraw}{c99aa6349d9ef1ae109ce02f076bcdfb}
+      \strng{bibnamehash}{c99aa6349d9ef1ae109ce02f076bcdfb}
+      \strng{authorbibnamehash}{c99aa6349d9ef1ae109ce02f076bcdfb}
+      \strng{authornamehash}{08fc069f14aa47f634d6a80cd0b91e53}
+      \strng{authorfullhash}{c99aa6349d9ef1ae109ce02f076bcdfb}
+      \strng{authorfullhashraw}{c99aa6349d9ef1ae109ce02f076bcdfb}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sports Science and Medicine}
+      \field{number}{4}
+      \field{title}{Reliability, validity and usefulness of a new response time test for agility‐based sports: A simple vs. complex motor task}
+      \field{volume}{18}
+      \field{year}{2019}
+      \field{pages}{623\bibrangedash 635}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.52082/jssm.2019.623
+      \endverb
+    \endentry
+    \entry{Polechonski:2024:RVR}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=174f39c095a64a54a56a9e7ca9d611af}{%
+           family={Polechoński},
+           familyi={P\bibinitperiod},
+           given={Jacek},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2646795e07e548222d735e2501cf976}{%
+           family={Pilch},
+           familyi={P\bibinitperiod},
+           given={Jarosław},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70c32a5ad08aebb17a040bbd4a17fe5d}{%
+           family={Prończuk},
+           familyi={P\bibinitperiod},
+           given={Michał},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c4f4158524ed11ed5a544ed5b3cf157}{%
+           family={Markowski},
+           familyi={M\bibinitperiod},
+           given={Jacek},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=118d85800d490d1c8c6b74afa763fd75}{%
+           family={Maszczyk},
+           familyi={M\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{298537187d4284bbdb821fd6e2884de9}
+      \strng{fullhash}{d3e783abba3157089ab98b99547ef7d0}
+      \strng{fullhashraw}{d3e783abba3157089ab98b99547ef7d0}
+      \strng{bibnamehash}{d3e783abba3157089ab98b99547ef7d0}
+      \strng{authorbibnamehash}{d3e783abba3157089ab98b99547ef7d0}
+      \strng{authornamehash}{298537187d4284bbdb821fd6e2884de9}
+      \strng{authorfullhash}{d3e783abba3157089ab98b99547ef7d0}
+      \strng{authorfullhashraw}{d3e783abba3157089ab98b99547ef7d0}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Baltic Journal of Health and Physical Activity}
+      \field{number}{1}
+      \field{title}{Reliability and validity of simple and complex reaction speed measurements using the BlazePod system in MMA athletes}
+      \field{volume}{17}
+      \field{year}{2024}
+      \field{pages}{2}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.29359/BJHPA.17.1.02
+      \endverb
+    \endentry
+    \entry{Rebelo:2023:FDA}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=a6168dc5896d480ea2e28fe5924e9529}{%
+           family={Rebelo},
+           familyi={R\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fa540a5cf03fcc999180d936f045b94}{%
+           family={Martinho},
+           familyi={M\bibinitperiod},
+           given={Diogo\bibnamedelima V.},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0476bbb36c0d80de9bc07212c875bc63}{%
+           family={Valente-dos-Santos},
+           familyi={V\bibinithyphendelim d\bibinithyphendelim S\bibinitperiod},
+           given={João},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b01cd48da02ecb23ea85348312e72d8}{%
+           family={Coelho-e-Silva},
+           familyi={C\bibinithyphendelim e\bibinithyphendelim S\bibinitperiod},
+           given={Manuel\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61f245ae5fa01ed5be59607c29b0d5e2}{%
+           family={Teixeira},
+           familyi={T\bibinitperiod},
+           given={Diogo\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ff27fa1965695434fb1eea7fe42c7ba}
+      \strng{fullhash}{861e6cb0e56ad1fae18e52e0d0d6e5f9}
+      \strng{fullhashraw}{861e6cb0e56ad1fae18e52e0d0d6e5f9}
+      \strng{bibnamehash}{861e6cb0e56ad1fae18e52e0d0d6e5f9}
+      \strng{authorbibnamehash}{861e6cb0e56ad1fae18e52e0d0d6e5f9}
+      \strng{authornamehash}{3ff27fa1965695434fb1eea7fe42c7ba}
+      \strng{authorfullhash}{861e6cb0e56ad1fae18e52e0d0d6e5f9}
+      \strng{authorfullhashraw}{861e6cb0e56ad1fae18e52e0d0d6e5f9}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BMC Sports Science, Medicine and Rehabilitation}
+      \field{number}{1}
+      \field{title}{From data to action: a scoping review of wearable technologies and biomechanical assessments informing injury prevention strategies in sport}
+      \field{volume}{15}
+      \field{year}{2023}
+      \field{pages}{169}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s13102-023-00783-4
+      \endverb
+    \endentry
+    \entry{Seckin:2023:RWT}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fa0856e20e0ca545accc0239e4cd1221}{%
+           family={Seçkin},
+           familyi={S\bibinitperiod},
+           given={Ahmet\bibnamedelima Çağdaş},
+           giveni={A\bibinitperiod\bibinitdelim Ç\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28b3a68f520b04bf86bcf6a5f763049e}{%
+           family={Ateş},
+           familyi={A\bibinitperiod},
+           given={Bahar},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54e1d5df42dbfeb4b073f62d436a8368}{%
+           family={Seçkin},
+           familyi={S\bibinitperiod},
+           given={Mine},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{92ac5420efc55d487a5c16dfb440a8dc}
+      \strng{fullhash}{8395af58d7882617d0e7f21203b6c4a3}
+      \strng{fullhashraw}{8395af58d7882617d0e7f21203b6c4a3}
+      \strng{bibnamehash}{8395af58d7882617d0e7f21203b6c4a3}
+      \strng{authorbibnamehash}{8395af58d7882617d0e7f21203b6c4a3}
+      \strng{authornamehash}{92ac5420efc55d487a5c16dfb440a8dc}
+      \strng{authorfullhash}{8395af58d7882617d0e7f21203b6c4a3}
+      \strng{authorfullhashraw}{8395af58d7882617d0e7f21203b6c4a3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{18}
+      \field{title}{Review on Wearable Technology in Sports: Concepts, Challenges and Opportunities}
+      \field{volume}{13}
+      \field{year}{2023}
+      \field{pages}{10399}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app131810399
+      \endverb
+    \endentry
+    \entry{Shimi:2025:AML}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=085da87a5a99b28e6f030d50524e8b12}{%
+           family={Shimi},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69141df22597ceb18fac09106a44b8ba}{%
+           family={Kyriacou},
+           familyi={K\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2aead4b8f6f31920135b4f6b0628e15}{%
+           family={Avraamides},
+           familyi={A\bibinitperiod},
+           given={M.\bibnamedelimi N.},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bb2ffc4ac56fbe68dbefa9bc87f647e9}
+      \strng{fullhash}{d83b5f0969619fcd04614be8791c3fb5}
+      \strng{fullhashraw}{d83b5f0969619fcd04614be8791c3fb5}
+      \strng{bibnamehash}{d83b5f0969619fcd04614be8791c3fb5}
+      \strng{authorbibnamehash}{d83b5f0969619fcd04614be8791c3fb5}
+      \strng{authornamehash}{bb2ffc4ac56fbe68dbefa9bc87f647e9}
+      \strng{authorfullhash}{d83b5f0969619fcd04614be8791c3fb5}
+      \strng{authorfullhashraw}{d83b5f0969619fcd04614be8791c3fb5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Sports and Active Living}
+      \field{title}{Attentional mechanisms in light training tasks}
+      \field{volume}{7}
+      \field{year}{2025}
+      \field{pages}{Article 1623558}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.3389/fspor.2025.1623558
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3389/fspor.2025.1623558
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3389/fspor.2025.1623558
+      \endverb
+    \endentry
+    \entry{Steff:2024:IAR}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e5ebee57734e6defd86da8fc1e2cc760}{%
+           family={Steff},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6024307a23c1c4d3262b818b72f0112f}{%
+           family={Badau},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97704cc5800aa071141705e5becdd183}{%
+           family={Badau},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{544e8f22e339d662fed711ce5d40d86e}
+      \strng{fullhash}{7bb548b7ab7481c000e5e3bcdcc49734}
+      \strng{fullhashraw}{7bb548b7ab7481c000e5e3bcdcc49734}
+      \strng{bibnamehash}{7bb548b7ab7481c000e5e3bcdcc49734}
+      \strng{authorbibnamehash}{7bb548b7ab7481c000e5e3bcdcc49734}
+      \strng{authornamehash}{544e8f22e339d662fed711ce5d40d86e}
+      \strng{authorfullhash}{7bb548b7ab7481c000e5e3bcdcc49734}
+      \strng{authorfullhashraw}{7bb548b7ab7481c000e5e3bcdcc49734}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{9}
+      \field{title}{Improving agility and reactive agility in basketball players U14 and U16 by implementing Fitlight technology in the sports training process}
+      \field{volume}{14}
+      \field{year}{2024}
+      \field{pages}{3597}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app14093597
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/app14093597
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/app14093597
+      \endverb
+    \endentry
+    \entry{Theofilou:2022:EVS}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=bd5af54fbad4a6e7cad51c435810181e}{%
+           family={Theofilou},
+           familyi={T\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4499eec79361dcec606a488b6e74658}{%
+           family={Ladakis},
+           familyi={L\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42c9c8f098ad7fe23545bb73ad904290}{%
+           family={Mavroidi},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=086b37a6926e84c7a05799b7dbc9c8a1}{%
+           family={Kilintzis},
+           familyi={K\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=494fd895eda0d1176db29ce745d1a49e}{%
+           family={Mirachtsis},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f21787cffc577fe70a90839cbef114fe}{%
+           family={Chouvarda},
+           familyi={C\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8f2f00b7675926e1ea7bca9307762ab}{%
+           family={Kouidi},
+           familyi={K\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a97f7f77dd73007b32670dd49eb9606a}
+      \strng{fullhash}{de5d2a431b50027fa4847a32525ce6c0}
+      \strng{fullhashraw}{de5d2a431b50027fa4847a32525ce6c0}
+      \strng{bibnamehash}{de5d2a431b50027fa4847a32525ce6c0}
+      \strng{authorbibnamehash}{de5d2a431b50027fa4847a32525ce6c0}
+      \strng{authornamehash}{a97f7f77dd73007b32670dd49eb9606a}
+      \strng{authorfullhash}{de5d2a431b50027fa4847a32525ce6c0}
+      \strng{authorfullhashraw}{de5d2a431b50027fa4847a32525ce6c0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{17}
+      \field{title}{The effects of a visual stimuli training program on reaction time, cognitive function, and fitness in young soccer players}
+      \field{volume}{22}
+      \field{year}{2022}
+      \field{pages}{6680}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s22176680
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/s22176680
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/s22176680
+      \endverb
+    \endentry
+    \entry{Turna:2020:EAT}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4986ed3c40d5b2baa6a6e0eb2b32206e}{%
+           family={Turna},
+           familyi={T\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4986ed3c40d5b2baa6a6e0eb2b32206e}
+      \strng{fullhash}{4986ed3c40d5b2baa6a6e0eb2b32206e}
+      \strng{fullhashraw}{4986ed3c40d5b2baa6a6e0eb2b32206e}
+      \strng{bibnamehash}{4986ed3c40d5b2baa6a6e0eb2b32206e}
+      \strng{authorbibnamehash}{4986ed3c40d5b2baa6a6e0eb2b32206e}
+      \strng{authornamehash}{4986ed3c40d5b2baa6a6e0eb2b32206e}
+      \strng{authorfullhash}{4986ed3c40d5b2baa6a6e0eb2b32206e}
+      \strng{authorfullhashraw}{4986ed3c40d5b2baa6a6e0eb2b32206e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Education and Learning}
+      \field{number}{1}
+      \field{title}{The effect of agility training on reaction time in fencers}
+      \field{volume}{9}
+      \field{year}{2020}
+      \field{pages}{127\bibrangedash 135}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.5539/jel.v9n1p127
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5539/jel.v9n1p127
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5539/jel.v9n1p127
+      \endverb
+    \endentry
+    \entry{Urazayev:2023:IPE}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=064ef94800f63401fa82568c8e9afbdd}{%
+           family={Urazayev},
+           familyi={U\bibinitperiod},
+           given={Dnislam},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b15b41968fbfe2325808bde4107d5b0e}{%
+           family={Eduard},
+           familyi={E\bibinitperiod},
+           given={Aida},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b8d32206b761940b243c46b10503c60}{%
+           family={Ahsan},
+           familyi={A\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdbc69ab41fd01b7c2e1a29db1dca5e7}{%
+           family={Zorbas},
+           familyi={Z\bibinitperiod},
+           given={Dimitrios},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{546795149ba0d4c11ead8ca9d1c224d0}
+      \strng{fullhash}{6a186761cf9d667b182014d3fc930d07}
+      \strng{fullhashraw}{6a186761cf9d667b182014d3fc930d07}
+      \strng{bibnamehash}{6a186761cf9d667b182014d3fc930d07}
+      \strng{authorbibnamehash}{6a186761cf9d667b182014d3fc930d07}
+      \strng{authornamehash}{546795149ba0d4c11ead8ca9d1c224d0}
+      \strng{authorfullhash}{6a186761cf9d667b182014d3fc930d07}
+      \strng{authorfullhashraw}{6a186761cf9d667b182014d3fc930d07}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2023 IEEE Smart Information Systems and Technologies (SIST)}
+      \field{month}{5}
+      \field{title}{Indoor performance evaluation of ESP‑NOW}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1109/SIST58284.2023.10223585
+      \endverb
+    \endentry
+    \entry{Wang:2024:TME}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=61ad10c626e1d641e0b1d7b5f48d3233}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30ff3ef4a89e0c6777f480da5386b053}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7bb074c37d04e2fb30a473aa12102ae1}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a173ffd7d2f7a3e749ffa08afcdc6031}
+      \strng{fullhash}{ace8046a269a00de75fddcd333b9b3bf}
+      \strng{fullhashraw}{ace8046a269a00de75fddcd333b9b3bf}
+      \strng{bibnamehash}{ace8046a269a00de75fddcd333b9b3bf}
+      \strng{authorbibnamehash}{ace8046a269a00de75fddcd333b9b3bf}
+      \strng{authornamehash}{a173ffd7d2f7a3e749ffa08afcdc6031}
+      \strng{authorfullhash}{ace8046a269a00de75fddcd333b9b3bf}
+      \strng{authorfullhashraw}{ace8046a269a00de75fddcd333b9b3bf}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Heliyon}
+      \field{number}{1}
+      \field{title}{Training methods and evaluation of basketball players’ agility quality: A systematic review}
+      \field{volume}{10}
+      \field{year}{2024}
+      \field{pages}{Article e24296}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.heliyon.2024.e24296
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.heliyon.2024.e24296
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.heliyon.2024.e24296
+      \endverb
+    \endentry
+    \entry{Yildiz:2020:RRA}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=e30178d15f26ae6735d60a0651f7c84a}{%
+           family={Yildiz},
+           familyi={Y\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=388f94233b108e0cf04295e62314ba3e}{%
+           family={Ateş},
+           familyi={A\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=da8871ba45708c6607f94f725b296f33}{%
+           family={Gelen},
+           familyi={G\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8279df15793728a698a0755cd765f18f}{%
+           family={Çirak},
+           familyi={Ç\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9cf52393bb7ee0c8962b4a9e9524a5be}{%
+           family={Bakici},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bcf3a02e9d4ae619385661cb75cc89a8}{%
+           family={Sert},
+           familyi={S\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd73ae3e7157d860f19899248fc68968}{%
+           family={Kayihan},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=934bbc9c9154b5c167497976ed7bba1a}{%
+           family={Ozkan},
+           familyi={O\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1a8a2f34afecbf8e7a7ff4108c3c208b}
+      \strng{fullhash}{22c03c1e3355109edd670bb5d442e803}
+      \strng{fullhashraw}{22c03c1e3355109edd670bb5d442e803}
+      \strng{bibnamehash}{22c03c1e3355109edd670bb5d442e803}
+      \strng{authorbibnamehash}{22c03c1e3355109edd670bb5d442e803}
+      \strng{authornamehash}{1a8a2f34afecbf8e7a7ff4108c3c208b}
+      \strng{authorfullhash}{22c03c1e3355109edd670bb5d442e803}
+      \strng{authorfullhashraw}{22c03c1e3355109edd670bb5d442e803}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Medica Mediterranea}
+      \field{title}{The relationship between reaction time, agility and speed performance in high-level soccer players}
+      \field{volume}{36}
+      \field{year}{2020}
+      \field{pages}{2923\bibrangedash 2927}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.19193/0393-6384_2020_5_448
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.19193/0393-6384_2020_5_448
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.19193/0393-6384_2020_5_448
+      \endverb
+    \endentry
+    \entry{Zhao:2024:RPS}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=326e7e67b0b4605a06b13d7b7d37ab75}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=865de0ad624b442a018417bf6b85083e}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=013142302047747a6b9bc4d928a2ba25}{%
+           family={Bo},
+           familyi={B\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab2b2eab89ff430c732b6463e153d62a}{%
+           family={Qi},
+           familyi={Q\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=280dc4c18f682e47f79d502f0e89f614}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b61c2a35e46354fd1be77b3a4cdbecd5}
+      \strng{fullhash}{8bb5d3b6182c3fde15a0e5892526992d}
+      \strng{fullhashraw}{8bb5d3b6182c3fde15a0e5892526992d}
+      \strng{bibnamehash}{8bb5d3b6182c3fde15a0e5892526992d}
+      \strng{authorbibnamehash}{8bb5d3b6182c3fde15a0e5892526992d}
+      \strng{authornamehash}{b61c2a35e46354fd1be77b3a4cdbecd5}
+      \strng{authorfullhash}{8bb5d3b6182c3fde15a0e5892526992d}
+      \strng{authorfullhashraw}{8bb5d3b6182c3fde15a0e5892526992d}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{22}
+      \field{title}{Research progress on applying intelligent sensors in sports science}
+      \field{volume}{24}
+      \field{year}{2024}
+      \field{pages}{7338}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s24227338
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/s24227338
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/s24227338
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
 
-\bibitem [\protect \citeauthoryear {%
-Ezhov%
-, Zakharova%
-\BCBL {}\ \BBA {} Kachalov%
-}{%
-Ezhov%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2021}}%
-}]{%
-Ezhov:2021:MLS}
-\APACinsertmetastar {%
-Ezhov:2021:MLS}%
-\begin{APACrefauthors}%
-Ezhov, A.%
-, Zakharova, A.%
-\BCBL {}\ \BBA {} Kachalov, D.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2021}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Modern Light Sport Training Systems: Critical Analysis
-  of Their Construction and Performance Features} {Modern light sport training
-  systems: Critical analysis of their construction and performance
-  features}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {Proceedings of the 9th International Conference on Sport
-  Sciences Research and Technology Support - icSPORTS} {Proceedings of the 9th
-  international conference on sport sciences research and technology support -
-  icsports}\ (\BPG~123-129).
-\newblock
-\APACaddressPublisher{}{SciTePress}.
-\newblock
-\begin{APACrefDOI} \doi{10.5220/0010677900003059} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Hassan%
-}{%
-Hassan%
-}{%
-{\protect \APACyear {2025}}%
-}]{%
-Hassan:2025:FTI}
-\APACinsertmetastar {%
-Hassan:2025:FTI}%
-\begin{APACrefauthors}%
-Hassan, A\BPBI K.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2025}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {FITLIGHT Training and Its Influence on Visual-Motor
-  Reactions and Dribbling Speed in Female Basketball Players: Prospective
-  Evaluation Study} {Fitlight training and its influence on visual-motor
-  reactions and dribbling speed in female basketball players: Prospective
-  evaluation study}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{JMIR Serious Games}{1}{1}{e70519}.
-\newblock
-\begin{APACrefDOI} \doi{10.2196/70519} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Hassan%
-, Alibrahim%
-\BCBL {}\ \BBA {} Sayed~Ahmed%
-}{%
-Hassan%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2023}}%
-}]{%
-Hassan:2023:ESF}
-\APACinsertmetastar {%
-Hassan:2023:ESF}%
-\begin{APACrefauthors}%
-Hassan, A\BPBI K.%
-, Alibrahim, M\BPBI S.%
-\BCBL {}\ \BBA {} Sayed~Ahmed, Y\BPBI A\BPBI R.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2023}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {The effect of small‐sided games using the FIT LIGHT
-  training system on some harmonic abilities and some basic skills of
-  basketball players} {The effect of small‐sided games using the fit light
-  training system on some harmonic abilities and some basic skills of
-  basketball players}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Frontiers in Sports and Active Living}{5}{}{1080526}.
-\newblock
-\begin{APACrefDOI} \doi{10.3389/fspor.2023.1080526} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Horváth%
-\ \protect \BOthers {.}}{%
-Horváth%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2022}}%
-}]{%
-Horvath:2022:ARA}
-\APACinsertmetastar {%
-Horvath:2022:ARA}%
-\begin{APACrefauthors}%
-Horváth, D.%
-, Négyesi, J.%
-, Győri, T.%
-, Szűcs, B.%
-, Tóth, P\BPBI J.%
-, Matics, Z.%
-\BDBL {}Rácz, L.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2022}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Application of a Reactive Agility Training Program Using
-  Light-Based Stimuli to Enhance the Physical and Cognitive Performance of Car
-  Racing Drivers: A Randomized Controlled Trial} {Application of a reactive
-  agility training program using light-based stimuli to enhance the physical
-  and cognitive performance of car racing drivers: A randomized controlled
-  trial}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Sports Medicine - Open}{8}{1}{113}.
-\newblock
-\begin{APACrefDOI} \doi{10.1186/s40798-022-00509-9} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Jothi%
-\ \protect \BOthers {.}}{%
-Jothi%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2025}}%
-}]{%
-Jothi:2025:EVT}
-\APACinsertmetastar {%
-Jothi:2025:EVT}%
-\begin{APACrefauthors}%
-Jothi, S.%
-, Kaviya, K.%
-, Sheela~Mary, A.%
-, Madhumitha, B.%
-, Janani, B.%
-, Hirthika, K.%
-\BDBL {}Kavitha~Sri, S.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2025}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Effectiveness of visual training interventions on
-  reaction time in athletes: A systematic review} {Effectiveness of visual
-  training interventions on reaction time in athletes: A systematic
-  review}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{International Journal of Physical Education, Sports and
-  Health}{12}{4}{135--141}.
-\newblock
-\begin{APACrefDOI} \doi{10.22271/kheljournal.2025.v12.i4c.3881}
-  \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Pojskic%
-\ \protect \BOthers {.}}{%
-Pojskic%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2019}}%
-}]{%
-Pojskic:2019:RVU}
-\APACinsertmetastar {%
-Pojskic:2019:RVU}%
-\begin{APACrefauthors}%
-Pojskic, H.%
-, Pagaduan, J.%
-, Uzicanin, E.%
-, Separovic, V.%
-, Spasic, M.%
-, Foretic, N.%
-\BCBL {}\ \BBA {} Sekulic, D.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2019}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Reliability, validity and usefulness of a new response
-  time test for agility‐based sports: A simple vs. complex motor task}
-  {Reliability, validity and usefulness of a new response time test for
-  agility‐based sports: A simple vs. complex motor task}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Sports Science and
-  Medicine}{18}{4}{623--635}.
-\newblock
-\begin{APACrefDOI} \doi{10.52082/jssm.2019.623} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Polecho{\'n}ski%
-, Pilch%
-, Pro{\'n}czuk%
-, Markowski%
-\BCBL {}\ \BBA {} Maszczyk%
-}{%
-Polecho{\'n}ski%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2024}}%
-}]{%
-Polechonski:2024:RVR}
-\APACinsertmetastar {%
-Polechonski:2024:RVR}%
-\begin{APACrefauthors}%
-Polecho{\'n}ski, J.%
-, Pilch, J.%
-, Pro{\'n}czuk, M.%
-, Markowski, J.%
-\BCBL {}\ \BBA {} Maszczyk, A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2024}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Reliability and validity of simple and complex reaction
-  speed measurements using the BlazePod system in MMA athletes} {Reliability
-  and validity of simple and complex reaction speed measurements using the
-  blazepod system in mma athletes}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Baltic Journal of Health and Physical
-  Activity}{17}{1}{2}.
-\newblock
-\begin{APACrefDOI} \doi{10.29359/BJHPA.17.1.02} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Rebelo%
-, Martinho%
-, Valente-dos Santos%
-, Coelho-e Silva%
-\BCBL {}\ \BBA {} Teixeira%
-}{%
-Rebelo%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2023}}%
-}]{%
-Rebelo:2023:FDA}
-\APACinsertmetastar {%
-Rebelo:2023:FDA}%
-\begin{APACrefauthors}%
-Rebelo, A.%
-, Martinho, D\BPBI V.%
-, Valente-dos Santos, J.%
-, Coelho-e Silva, M\BPBI J.%
-\BCBL {}\ \BBA {} Teixeira, D\BPBI S.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2023}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {From data to action: a scoping review of wearable
-  technologies and biomechanical assessments informing injury prevention
-  strategies in sport} {From data to action: a scoping review of wearable
-  technologies and biomechanical assessments informing injury prevention
-  strategies in sport}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{BMC Sports Science, Medicine and
-  Rehabilitation}{15}{1}{169}.
-\newblock
-\begin{APACrefDOI} \doi{10.1186/s13102-023-00783-4} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Seçkin%
-, Ateş%
-\BCBL {}\ \BBA {} Seçkin%
-}{%
-Seçkin%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2023}}%
-}]{%
-Seckin:2023:RWT}
-\APACinsertmetastar {%
-Seckin:2023:RWT}%
-\begin{APACrefauthors}%
-Seçkin, A\BPBI .%
-, Ateş, B.%
-\BCBL {}\ \BBA {} Seçkin, M.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2023}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Review on Wearable Technology in Sports: Concepts,
-  Challenges and Opportunities} {Review on wearable technology in sports:
-  Concepts, challenges and opportunities}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Applied Sciences}{13}{18}{10399}.
-\newblock
-\begin{APACrefDOI} \doi{10.3390/app131810399} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Shimi%
-, Kyriacou%
-\BCBL {}\ \BBA {} Avraamides%
-}{%
-Shimi%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2025}}%
-}]{%
-Shimi:2025:AML}
-\APACinsertmetastar {%
-Shimi:2025:AML}%
-\begin{APACrefauthors}%
-Shimi, A.%
-, Kyriacou, T.%
-\BCBL {}\ \BBA {} Avraamides, M\BPBI N.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2025}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Attentional mechanisms in light training tasks}
-  {Attentional mechanisms in light training tasks}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Frontiers in Sports and Active Living}{7}{}{Article
-  1623558}.
-\newblock
-\begin{APACrefURL} \url{https://doi.org/10.3389/fspor.2025.1623558}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.3389/fspor.2025.1623558} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Steff%
-, Badau%
-\BCBL {}\ \BBA {} Badau%
-}{%
-Steff%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2024}}%
-{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
-Steff:2024:IAR}
-\APACinsertmetastar {%
-Steff:2024:IAR}%
-\begin{APACrefauthors}%
-Steff, N.%
-, Badau, D.%
-\BCBL {}\ \BBA {} Badau, A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2024{\protect \BCnt {1}}}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Improving agility and reactive agility in basketball
-  players U14 and U16 by implementing Fitlight technology in the sports
-  training process} {Improving agility and reactive agility in basketball
-  players u14 and u16 by implementing fitlight technology in the sports
-  training process}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Applied Sciences}{14}{9}{3597}.
-\newblock
-\begin{APACrefURL} \url{https://doi.org/10.3390/app14093597} \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.3390/app14093597} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Steff%
-, Badau%
-\BCBL {}\ \BBA {} Badau%
-}{%
-Steff%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2024}}%
-{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
-Steff:2024:SIE}
-\APACinsertmetastar {%
-Steff:2024:SIE}%
-\begin{APACrefauthors}%
-Steff, N.%
-, Badau, D.%
-\BCBL {}\ \BBA {} Badau, A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2024{\protect \BCnt {2}}}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Study on the impact of implementing an exercise program
-  using Fitlight technology for the development of upper limb coordinative
-  abilities in basketball players} {Study on the impact of implementing an
-  exercise program using fitlight technology for the development of upper limb
-  coordinative abilities in basketball players}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Sensors}{24}{11}{Article 3482}.
-\newblock
-\begin{APACrefURL} \url{https://doi.org/10.3390/s24113482} \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.3390/s24113482} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Theofilou%
-\ \protect \BOthers {.}}{%
-Theofilou%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2022}}%
-}]{%
-Theofilou:2022:EVS}
-\APACinsertmetastar {%
-Theofilou:2022:EVS}%
-\begin{APACrefauthors}%
-Theofilou, G.%
-, Ladakis, I.%
-, Mavroidi, C.%
-, Kilintzis, V.%
-, Mirachtsis, T.%
-, Chouvarda, I.%
-\BCBL {}\ \BBA {} Kouidi, E.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2022}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {The effects of a visual stimuli training program on
-  reaction time, cognitive function, and fitness in young soccer players} {The
-  effects of a visual stimuli training program on reaction time, cognitive
-  function, and fitness in young soccer players}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Sensors}{22}{17}{6680}.
-\newblock
-\begin{APACrefURL} \url{https://doi.org/10.3390/s22176680} \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.3390/s22176680} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Turna%
-}{%
-Turna%
-}{%
-{\protect \APACyear {2020}}%
-}]{%
-Turna:2020:EAT}
-\APACinsertmetastar {%
-Turna:2020:EAT}%
-\begin{APACrefauthors}%
-Turna, B.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2020}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {The effect of agility training on reaction time in
-  fencers} {The effect of agility training on reaction time in fencers}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Education and Learning}{9}{1}{127--135}.
-\newblock
-\begin{APACrefURL} \url{https://doi.org/10.5539/jel.v9n1p127} \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.5539/jel.v9n1p127} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Wang%
-, Zhang%
-\BCBL {}\ \BBA {} Liu%
-}{%
-Wang%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2024}}%
-}]{%
-Wang:2024:TME}
-\APACinsertmetastar {%
-Wang:2024:TME}%
-\begin{APACrefauthors}%
-Wang, Y.%
-, Zhang, X.%
-\BCBL {}\ \BBA {} Liu, J.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2024}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Training methods and evaluation of basketball players’
-  agility quality: A systematic review} {Training methods and evaluation of
-  basketball players’ agility quality: A systematic review}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Heliyon}{10}{1}{Article e24296}.
-\newblock
-\begin{APACrefURL} \url{https://doi.org/10.1016/j.heliyon.2024.e24296}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1016/j.heliyon.2024.e24296} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Yildiz%
-\ \protect \BOthers {.}}{%
-Yildiz%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2020}}%
-}]{%
-Yildiz:2020:RRA}
-\APACinsertmetastar {%
-Yildiz:2020:RRA}%
-\begin{APACrefauthors}%
-Yildiz, S.%
-, Ateş, O.%
-, Gelen, E.%
-, Çirak, E.%
-, Bakici, D.%
-, Sert, V.%
-\BDBL {}Ozkan, A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2020}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {The relationship between reaction time, agility and
-  speed performance in high-level soccer players} {The relationship between
-  reaction time, agility and speed performance in high-level soccer
-  players}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Acta Medica Mediterranea}{36}{}{2923--2927}.
-\newblock
-\begin{APACrefURL} \url{https://doi.org/10.19193/0393-6384_2020_5_448}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.19193/0393-6384_2020_5_448} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Zhao%
-, Yang%
-, Bo%
-, Qi%
-\BCBL {}\ \BBA {} Zhu%
-}{%
-Zhao%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2024}}%
-}]{%
-Zhao:2024:RPS}
-\APACinsertmetastar {%
-Zhao:2024:RPS}%
-\begin{APACrefauthors}%
-Zhao, J.%
-, Yang, Y.%
-, Bo, L.%
-, Qi, J.%
-\BCBL {}\ \BBA {} Zhu, Y.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2024}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Research progress on applying intelligent sensors in
-  sports science} {Research progress on applying intelligent sensors in sports
-  science}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Sensors}{24}{22}{7338}.
-\newblock
-\begin{APACrefURL} \url{https://doi.org/10.3390/s24227338} \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.3390/s24227338} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Çekok%
-\ \BBA {} Anaforoğlu%
-}{%
-Çekok%
-\ \BBA {} Anaforoğlu%
-}{%
-{\protect \APACyear {2025}}%
-}]{%
-Cekok:2025:EBV}
-\APACinsertmetastar {%
-Cekok:2025:EBV}%
-\begin{APACrefauthors}%
-Çekok, F\BPBI K.%
-\BCBT {}\ \BBA {} Anaforoğlu, B.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2025}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Effects of balance‐based visual reaction time
-  exercises on cognitive and physical performance in older adults: A randomized
-  controlled trial} {Effects of balance‐based visual reaction time exercises
-  on cognitive and physical performance in older adults: A randomized
-  controlled trial}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Scientific Reports}{15}{}{34299}.
-\newblock
-\begin{APACrefDOI} \doi{10.1038/s41598-025-20418-7} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\end{thebibliography}
